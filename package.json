@@ -13,6 +13,7 @@
     "vitest": "^5.0.5"
   },
   "dependencies": {
+    "fast-xml-parser": "^5.11.2",
     "yahoo-finance2": "^4.0.5"
   }
 }
