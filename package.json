@@ -10,6 +10,8 @@
     "build:site": "node scripts/build-site.js"
   },
   "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "chart.js": "^4.4.1",
     "vitest": "^5.0.5"
   },
   "dependencies": {

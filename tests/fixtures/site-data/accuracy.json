@@ -1,0 +1,25 @@
+{
+ "updatedAt": "2026-11-01T22:00:00.000Z",
+ "byHorizon": {
+  "1d": {
+   "n": 0,
+   "hits": 0,
+   "hitRate": null,
+   "inRangeRate": null
+  },
+  "1w": {
+   "n": 0,
+   "hits": 0,
+   "hitRate": null,
+   "inRangeRate": null
+  },
+  "1m": {
+   "n": 0,
+   "hits": 0,
+   "hitRate": null,
+   "inRangeRate": null
+  }
+ },
+ "bySymbol": {},
+ "recent": []
+}
