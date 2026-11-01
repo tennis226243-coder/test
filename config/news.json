@@ -1,0 +1,17 @@
+{
+  "lookbackDays": 7, "shortDays": 2, "halfLifeDays": 2, "confidenceFull": 5, "stockMarketWeight": 0.5,
+  "topics": [
+    { "id": "us", "name": "米国", "queries": [{ "q": "米国 景気 株価", "lang": "ja" }, { "q": "US economy stocks", "lang": "en" }], "impact": { "JP": 0.5, "US": 1.0 } },
+    { "id": "japan", "name": "日本", "queries": [{ "q": "日本 景気 株価", "lang": "ja" }, { "q": "Japan economy stocks", "lang": "en" }], "impact": { "JP": 1.0, "US": 0.1 } },
+    { "id": "europe", "name": "欧州", "queries": [{ "q": "欧州 経済 ECB", "lang": "ja" }, { "q": "Europe economy ECB", "lang": "en" }], "impact": { "JP": 0.3, "US": 0.3 } },
+    { "id": "china", "name": "中国", "queries": [{ "q": "中国 経済", "lang": "ja" }, { "q": "China economy", "lang": "en" }], "impact": { "JP": 0.5, "US": 0.3 } },
+    { "id": "middle_east", "name": "中東", "queries": [{ "q": "中東 情勢", "lang": "ja" }, { "q": "Middle East tensions", "lang": "en" }], "impact": { "JP": 0.4, "US": 0.3 } },
+    { "id": "emerging", "name": "新興国", "queries": [{ "q": "新興国 経済", "lang": "ja" }, { "q": "emerging markets", "lang": "en" }], "impact": { "JP": 0.2, "US": 0.2 } },
+    { "id": "monetary_policy", "name": "金融政策", "queries": [{ "q": "日銀 FRB 金利", "lang": "ja" }, { "q": "Fed interest rates", "lang": "en" }], "impact": { "JP": 0.6, "US": 1.0 } },
+    { "id": "fx", "name": "為替", "queries": [{ "q": "円相場", "lang": "ja" }, { "q": "yen dollar", "lang": "en" }], "impact": { "JP": 0.5, "US": 0.0 },
+      "lexicon": { "ja": { "円安": 0.5, "円高": -0.5 }, "en": { "weaker yen": 0.5, "yen weakens": 0.5, "stronger yen": -0.5, "yen strengthens": -0.5 } } },
+    { "id": "commodities", "name": "資源", "queries": [{ "q": "原油価格", "lang": "ja" }, { "q": "oil prices", "lang": "en" }], "impact": { "JP": 0.4, "US": 0.2 },
+      "lexicon": { "ja": { "原油高": -0.5, "原油安": 0.5, "上昇": -0.3, "下落": 0.3 }, "en": { "oil prices rise": -0.5, "oil prices fall": 0.5, "surge": -0.4, "slump": 0.4 } } }
+  ],
+  "stockQueries": [{ "q": "{name} 株", "lang": "ja" }, { "q": "{name} stock", "lang": "en" }]
+}
