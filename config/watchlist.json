@@ -1,0 +1,18 @@
+{
+  "indices": [
+    { "symbol": "^N225",  "name": "日経平均", "market": "JP" },
+    { "symbol": "1306.T", "name": "TOPIX（ETF 1306で代用）", "market": "JP", "note": "ETF の価格" },
+    { "symbol": "^GSPC",  "name": "S&P500", "market": "US" },
+    { "symbol": "^IXIC",  "name": "NASDAQ総合", "market": "US" },
+    { "symbol": "^DJI",   "name": "ダウ平均", "market": "US" }
+  ],
+  "indicators": [
+    { "symbol": "JPY=X", "name": "ドル円" },
+    { "symbol": "CL=F",  "name": "WTI原油" },
+    { "symbol": "^TNX",  "name": "米国10年債利回り" },
+    { "symbol": "^VIX",  "name": "VIX" }
+  ],
+  "stocks": [
+    { "symbol": "IONQ", "name": "IonQ", "market": "US" }
+  ]
+}

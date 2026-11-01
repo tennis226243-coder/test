@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "vitest": "^5.0.5"
+  },
+  "dependencies": {
+    "yahoo-finance2": "^4.0.5"
   }
 }
