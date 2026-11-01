@@ -37,3 +37,9 @@ test('summarize', () => {
   expect(a.recent.map((x) => x.date)).toEqual(['2026-11-03', '2026-11-01']);
   expect(a.updatedAt).toBe('2026-11-04T00:00:00Z');
 });
+test('休場日をはさんで同じ基準日の予測が2日分あっても1件として数える', () => {
+  const histories = { A: { symbol: 'A', dates: ['d0', 'd1'], closes: [100, 101] } };
+  const ev = evaluate([entry('2026-11-03', [asset('A', 'd0', 100, 'down')]), entry('2026-11-04', [asset('A', 'd0', 100, 'up')])], histories);
+  expect(ev.filter((e) => e.horizon === '1d')).toHaveLength(1);
+  expect(ev[0]).toMatchObject({ date: '2026-11-04', hit: true });
+});

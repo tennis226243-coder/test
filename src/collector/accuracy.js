@@ -4,11 +4,15 @@ const HORIZONS = ['1d', '1w', '1m'];
 export function evaluate(entries, histories) {
   const byDate = new Map();
   for (const e of entries) byDate.set(e.date, e); // 同じ日付は後ろのものが残る
+  // 休場日をはさむと、同じ基準日（asOf）の予測が複数の日付に残る。日付の新しいほうだけを数える
+  const ordered = [...byDate.values()].sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
+  const seen = new Set();
   const out = [];
-  for (const entry of byDate.values()) {
+  for (const entry of ordered) {
     for (const a of entry.assets ?? []) {
       const h = histories[a.symbol];
-      if (!h) continue;
+      if (!h || seen.has(`${a.symbol}|${a.asOf}`)) continue;
+      seen.add(`${a.symbol}|${a.asOf}`);
       const i = h.dates.indexOf(a.asOf);
       if (i === -1) continue;
       for (const key of HORIZONS) {
