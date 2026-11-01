@@ -1,0 +1,15 @@
+{
+  "name": "stock-predictor",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "collect": "node src/collector/run.js",
+    "build:site": "node scripts/build-site.js"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.5"
+  }
+}
