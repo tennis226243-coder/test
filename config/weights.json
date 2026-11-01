@@ -1,0 +1,10 @@
+{
+  "k": 1.0,
+  "flatThreshold": 0.15,
+  "confidence": { "high": 0.75, "mid": 0.5 },
+  "horizons": {
+    "1d": { "days": 1,  "tech": 0.5, "news": 0.5, "techWeights": { "rsi": 0.35, "bollinger": 0.35, "maShort": 0.15, "macd": 0.15 }, "newsMix": { "short": 1.0, "medium": 0.0 } },
+    "1w": { "days": 5,  "tech": 0.5, "news": 0.5, "techWeights": { "macd": 0.35, "maShort": 0.35, "rsi": 0.15, "bollinger": 0.15 }, "newsMix": { "short": 0.5, "medium": 0.5 } },
+    "1m": { "days": 21, "tech": 0.6, "news": 0.4, "techWeights": { "maLong": 0.35, "slope": 0.35, "ma75": 0.30 }, "newsMix": { "short": 0.0, "medium": 1.0 } }
+  }
+}
