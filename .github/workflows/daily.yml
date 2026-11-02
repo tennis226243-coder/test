@@ -22,7 +22,10 @@ jobs:
     if: github.event_name != 'push'
     runs-on: ubuntu-latest
     steps:
+      # 「再実行」でも最新のデータ（前回までの履歴）から始めるため、実行時点のブランチの先頭を取る
       - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
       - uses: actions/setup-node@v5
         with:
           node-version: 22
@@ -40,7 +43,8 @@ jobs:
             echo "データの変更なし"
           else
             git commit -m "data: $(TZ=Asia/Tokyo date +%F) の予測"
-            git pull --rebase origin "${GITHUB_REF_NAME}"
+            # 途中で別の実行がデータを更新していたら、今回作ったデータを優先する（rebase では theirs = 今回のコミット）
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
