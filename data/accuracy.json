@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-02T03:39:21.036Z",
+ "updatedAt": "2026-11-03T03:23:41.163Z",
  "byHorizon": {
   "1d": {
-   "n": 0,
+   "n": 4,
    "hits": 0,
-   "hitRate": null,
-   "inRangeRate": null
+   "hitRate": 0,
+   "inRangeRate": 0.75
   },
   "1w": {
    "n": 0,
@@ -20,6 +20,144 @@
    "inRangeRate": null
   }
  },
- "bySymbol": {},
- "recent": []
+ "bySymbol": {
+  "^GSPC": {
+   "1d": {
+    "n": 1,
+    "hits": 0,
+    "hitRate": 0,
+    "inRangeRate": 1
+   },
+   "1w": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
+  "^IXIC": {
+   "1d": {
+    "n": 1,
+    "hits": 0,
+    "hitRate": 0,
+    "inRangeRate": 1
+   },
+   "1w": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
+  "^DJI": {
+   "1d": {
+    "n": 1,
+    "hits": 0,
+    "hitRate": 0,
+    "inRangeRate": 1
+   },
+   "1w": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
+  "IONQ": {
+   "1d": {
+    "n": 1,
+    "hits": 0,
+    "hitRate": 0,
+    "inRangeRate": 0
+   },
+   "1w": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  }
+ },
+ "recent": [
+  {
+   "date": "2026-11-02",
+   "symbol": "^GSPC",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": 0.08275986490095018,
+   "rangePct": [
+    -0.6596006413013485,
+    0.825120371103249
+   ],
+   "actualPct": -0.5101525813317354,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-02",
+   "symbol": "^IXIC",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": 0.10937039370999704,
+   "rangePct": [
+    -1.1756389750118597,
+    1.3943797624318537
+   ],
+   "actualPct": -1.0718116080905782,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-02",
+   "symbol": "^DJI",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": 0.038227123565409186,
+   "rangePct": [
+    -0.5818266546700804,
+    0.6582809018008987
+   ],
+   "actualPct": 0.41273054150925415,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-02",
+   "symbol": "IONQ",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": -0.5730928492401217,
+   "rangePct": [
+    -5.542561134888187,
+    4.3963754364079435
+   ],
+   "actualPct": -6.225035892947717,
+   "hit": false,
+   "inRange": false
+  }
+ ]
 }
