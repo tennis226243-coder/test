@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T02:05:02.442Z",
+ "updatedAt": "2026-11-06T02:06:40.392Z",
  "byHorizon": {
   "1d": {
-   "n": 14,
+   "n": 20,
    "hits": 1,
-   "hitRate": 0.07142857142857142,
-   "inRangeRate": 0.5
+   "hitRate": 0.05,
+   "inRangeRate": 0.45
   },
   "1w": {
    "n": 0,
@@ -23,10 +23,10 @@
  "bySymbol": {
   "1306.T": {
    "1d": {
-    "n": 2,
+    "n": 3,
     "hits": 1,
-    "hitRate": 0.5,
-    "inRangeRate": 0.5
+    "hitRate": 0.3333333333333333,
+    "inRangeRate": 0.3333333333333333
    },
    "1w": {
     "n": 0,
@@ -43,10 +43,10 @@
   },
   "^GSPC": {
    "1d": {
-    "n": 3,
+    "n": 4,
     "hits": 0,
     "hitRate": 0,
-    "inRangeRate": 0.6666666666666666
+    "inRangeRate": 0.5
    },
    "1w": {
     "n": 0,
@@ -63,10 +63,10 @@
   },
   "^IXIC": {
    "1d": {
-    "n": 3,
+    "n": 4,
     "hits": 0,
     "hitRate": 0,
-    "inRangeRate": 0.6666666666666666
+    "inRangeRate": 0.5
    },
    "1w": {
     "n": 0,
@@ -83,10 +83,10 @@
   },
   "^DJI": {
    "1d": {
-    "n": 3,
+    "n": 4,
     "hits": 0,
     "hitRate": 0,
-    "inRangeRate": 0.6666666666666666
+    "inRangeRate": 0.5
    },
    "1w": {
     "n": 0,
@@ -103,10 +103,10 @@
   },
   "IONQ": {
    "1d": {
-    "n": 2,
+    "n": 3,
     "hits": 0,
     "hitRate": 0,
-    "inRangeRate": 0
+    "inRangeRate": 0.3333333333333333
    },
    "1w": {
     "n": 0,
@@ -123,10 +123,10 @@
   },
   "^N225": {
    "1d": {
-    "n": 1,
+    "n": 2,
     "hits": 0,
     "hitRate": 0,
-    "inRangeRate": 0
+    "inRangeRate": 0.5
    },
    "1w": {
     "n": 0,
@@ -144,6 +144,90 @@
  },
  "recent": [
   {
+   "date": "2026-11-05",
+   "symbol": "1306.T",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": 0.041666683870282745,
+   "rangePct": [
+    -0.9578971644166323,
+    1.0412305321571977
+   ],
+   "actualPct": -5.903614457831329,
+   "hit": false,
+   "inRange": false
+  },
+  {
+   "date": "2026-11-05",
+   "symbol": "^GSPC",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": -0.021071565805653267,
+   "rangePct": [
+    -0.8346415160279759,
+    0.7924983844166693
+   ],
+   "actualPct": -4.35565981430297,
+   "hit": false,
+   "inRange": false
+  },
+  {
+   "date": "2026-11-05",
+   "symbol": "^IXIC",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": 0.05533102639763343,
+   "rangePct": [
+    -1.279092365330949,
+    1.3897544181262158
+   ],
+   "actualPct": -5.523341829136086,
+   "hit": false,
+   "inRange": false
+  },
+  {
+   "date": "2026-11-05",
+   "symbol": "^DJI",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": -0.1295416394372246,
+   "rangePct": [
+    -1.0185098629841178,
+    0.7594265841096686
+   ],
+   "actualPct": -3.4355242892923132,
+   "hit": false,
+   "inRange": false
+  },
+  {
+   "date": "2026-11-05",
+   "symbol": "IONQ",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": 0.11168532061901111,
+   "rangePct": [
+    -5.264912304759927,
+    5.488282945997949
+   ],
+   "actualPct": -1.500496362204684,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-04",
+   "symbol": "^N225",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": 0.018179114719029818,
+   "rangePct": [
+    -1.7034179154967595,
+    1.739776144934819
+   ],
+   "actualPct": -5.897631153899119,
+   "hit": false,
+   "inRange": false
+  },
+  {
    "date": "2026-11-04",
    "symbol": "1306.T",
    "horizon": "1d",
@@ -153,7 +237,7 @@
     -1.0200401703599795,
     1.1274179945549225
    ],
-   "actualPct": 2.2419330476354693,
+   "actualPct": 2.3897542135723704,
    "hit": false,
    "inRange": false
   },
@@ -181,7 +265,7 @@
     -1.3234712978521117,
     1.2145043036069454
    ],
-   "actualPct": 1.4366378919806522,
+   "actualPct": 1.4366224960776997,
    "hit": false,
    "inRange": false
   },
@@ -223,9 +307,9 @@
     -1.8546312213149951,
     1.6321105236637927
    ],
-   "actualPct": -1.9611794099878677,
+   "actualPct": -1.4159862718060579,
    "hit": false,
-   "inRange": false
+   "inRange": true
   },
   {
    "date": "2026-11-03",
