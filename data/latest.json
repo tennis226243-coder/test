@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-11T01:46:22.552Z",
- "date": "2026-11-11",
+ "generatedAt": "2026-11-12T02:46:03.749Z",
+ "date": "2026-11-12",
  "newsAvailable": true,
  "failedQueries": [],
  "topics": [
@@ -8,14 +8,14 @@
    "id": "us",
    "name": "米国",
    "short": {
-    "score": -0.11755135861255904,
-    "confidence": 1,
-    "n": 13
+    "score": -0.28363616354981724,
+    "confidence": 0.8,
+    "n": 4
    },
    "medium": {
-    "score": -0.19903634249372382,
+    "score": -0.2244206874358961,
     "confidence": 1,
-    "n": 23
+    "n": 21
    },
    "headlines": [
     {
@@ -29,7 +29,20 @@
       "景気後退",
       "急落"
      ],
-     "ageDays": 4.782205462962963
+     "ageDays": 5.823654502314815
+    },
+    {
+     "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4% - NBC Bay Area",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDFTQTZTZjRGNTBlWWpxMFJFMGt2cXI0cFlnQ3YzRElkRG9UUjdVUzRkZDliZHN6ZkREc0VLalFxZ1RJUzRPckthYlRhZm0ybW5OUUhVN0huUEtmOC0tMlFGcS1NaGRnRldKY0pkdFZmcWhDTDYxZVVMUlpNQ2lKdUV0eWUta056aWhBYldTYmTSAZgBQVVfeXFMT04xWDhSQWxUTFBxQzNhNWdUdTU4M3FCbk1ENDVhSWhTM2RfakVKcjE4dUhyeGF4aVpuZTJTblVRTHZMQ2F6Mm9XU3ZITU13NUNaamFxMmpLaDhWdHhCOFlsS2lXZkNaNTVPRUw2MGJXQ2ZieE0xd3VNeDBKNWwxUmZpR0RSSF84c0tyWUNUTFpJWW41OWFvVmw?oc=5",
+     "source": "NBC Bay Area",
+     "pubDate": "2026-11-05T17:08:12.000Z",
+     "lang": "en",
+     "score": -0.8336546070121552,
+     "matched": [
+      "sell-off",
+      "tumbles"
+     ],
+     "ageDays": 6.401293391203704
     },
     {
      "title": "米国中間選挙後の相場急落、なぜ起きた？ 今後の4つのポイント 野村證券・池田雄之輔 - 野村證券",
@@ -41,19 +54,7 @@
      "matched": [
       "急落"
      ],
-     "ageDays": 0.8238721296296296
-    },
-    {
-     "title": "ハイテク株急落でドル円の今後は？「AI投資の拡大」が揺らぐと為替どうなる FX分析 2026年11月6日 - 外為どっとコム",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fOEFQWWphTF9FeVlJamVkdzFFNUl5cjdVbzdfNFBFck5zc2JFQ3BaWDFDcEVVMmR4bzBhMHF4cGxnbVBDREVfWmtteUVZYkZPS01xSEFvWmhxcWZPOXcwQlAxcw?oc=5",
-     "source": "外為どっとコム",
-     "pubDate": "2026-11-06T09:05:00.000Z",
-     "lang": "ja",
-     "score": -0.6640367702678491,
-     "matched": [
-      "急落"
-     ],
-     "ageDays": 4.695399907407407
+     "ageDays": 1.8653211689814815
     },
     {
      "title": "【マクロ経済・投資環境2026年11月】半導体株急落後の展開をどうみるか？ - マネクリ",
@@ -65,19 +66,31 @@
      "matched": [
       "急落"
      ],
-     "ageDays": 4.789149907407407
+     "ageDays": 5.83059894675926
     },
     {
-     "title": "今回の株価急落はバブル崩壊でないと言える6つのポイント - 四季報オンライン",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xZFppb3FldWZXWUVhRW9vbC1ZeVV3RS0tSGpRRUhybWlPV3VKYjlaSHd5M3hiVkJhSi1xMEthaG1ndXYxTzdWOFVLRkRlTmV2OWVJaTNCSQ?oc=5",
-     "source": "四季報オンライン",
-     "pubDate": "2026-11-08T22:30:00.000Z",
+     "title": "ハイテク株急落でドル円の今後は？「AI投資の拡大」が揺らぐと為替どうなる FX分析 2026年11月6日 - 外為どっとコム",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fOEFQWWphTF9FeVlJamVkdzFFNUl5cjdVbzdfNFBFck5zc2JFQ3BaWDFDcEVVMmR4bzBhMHF4cGxnbVBDREVfWmtteUVZYkZPS01xSEFvWmhxcWZPOXcwQlAxcw?oc=5",
+     "source": "外為どっとコム",
+     "pubDate": "2026-11-06T09:05:00.000Z",
      "lang": "ja",
      "score": -0.6640367702678491,
      "matched": [
       "急落"
      ],
-     "ageDays": 2.1363721296296294
+     "ageDays": 5.73684894675926
+    },
+    {
+     "title": "日経平均株価の調整はまだ続く？エコノミストが読み解く株価急落の背景と先行き（愛宕伸康） - トウシル",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CSW1CTjZzdEZCNFpINkNRU1p1dFk1UXhYck53RzdRdkZJanVHVi16NDhJMFlzZEdMY0FXZWpUcWY5OENQUlFUMkNfZEc1WVQ3Y0QwS2Fwbmp0Zw?oc=5",
+     "source": "トウシル",
+     "pubDate": "2026-11-10T23:00:00.000Z",
+     "lang": "ja",
+     "score": -0.6640367702678491,
+     "matched": [
+      "急落"
+     ],
+     "ageDays": 1.1569878356481482
     },
     {
      "title": "日経平均株価65,000円割れ 株価急落につながった3つの要因 野村證券・大坂隼矢 - 野村證券",
@@ -89,7 +102,7 @@
      "matched": [
       "急落"
      ],
-     "ageDays": 4.740538796296296
+     "ageDays": 5.781987835648148
     },
     {
      "title": "日経平均、3営業日ぶり6万円台回復 AI株反発と原油安が追い風 - BigGo ファイナンス",
@@ -102,19 +115,7 @@
       "回復",
       "反発"
      ],
-     "ageDays": 1.0141499074074074
-    },
-    {
-     "title": "If a Recession Is Coming in 2027, I'm Making This 1 Investing Move Without Any Hesitation - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeE54aERhMmZsWVBkOTZNS090NlBHNWZDd0IxTzU2cHdRSGxyY3hYYldBSl9TMGJReElUWDZFczB1aTcyRjVacV9ZbEcyaU05S3VlRXBCRmZsNEJZdkZvdV9BSlpGOXlxN2ZpOXdVM29ZUTdZRXFUNUZaN1hCUy1haUlXSU9NaGdiSG1uSVJvWVdpRkFnZEJkQUhLMk8?oc=5",
-     "source": "Yahoo Finance",
-     "pubDate": "2026-11-09T21:35:00.000Z",
-     "lang": "en",
-     "score": -0.6640367702678491,
-     "matched": [
-      "recession"
-     ],
-     "ageDays": 1.174566574074074
+     "ageDays": 2.0555989467592592
     },
     {
      "title": "The S&P 500 is flashing a rare signal that hints a recession and a sharp stock drop are looming - Business Insider",
@@ -126,19 +127,19 @@
      "matched": [
       "recession"
      ],
-     "ageDays": 5.414844351851852
+     "ageDays": 6.456293391203704
     },
     {
-     "title": "「AI投資にブレーキ」は悪材料ではない説、米国のデータセンター規制はAIバブルの安全弁か、景気失速の引き金か？ 【生成AI事件簿】投資の先送りが収益化の時間を生む一方、株価下落による消費冷え込みという米経済への副作用も(1/6) - JBpress",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DeGlYOTZ5TV9VdmdpeUJDLWl2d1F2NXBmZlVuZE41Z3U3bE1qX0FISkJsV3ZQeEdOSkRIbURiYXhhWkNwVEZNUXF3ZXd6R1RzUTladVdB?oc=5",
-     "source": "JBpress",
-     "pubDate": "2026-11-10T06:00:00.000Z",
+     "title": "マクロスコープ：株価下落、高市政権の政策方針に影 さらなる財政拡張との見方も - Reuters",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzZ4WjB2bEVEcGlrYVM2SHJSeXgtT0poZzY0RUlBNFhqNVA3QlpWZzc4cHhkMjFMNHRPN1BCWXVDdXpZOWJOMm9tQTB5TDVudW15ODM2WnhsV0VZRmZpemFNX1E2TDV3eEFSMkhvcHRSZXpBZWhkdm10WW9Rd2xBbEwxYw?oc=5",
+     "source": "Reuters",
+     "pubDate": "2026-11-06T04:09:00.000Z",
      "lang": "ja",
      "score": -0.5370495669980353,
      "matched": [
       "株価下落"
      ],
-     "ageDays": 0.8238721296296296
+     "ageDays": 5.942404502314814
     }
    ]
   },
@@ -146,53 +147,27 @@
    "id": "japan",
    "name": "日本",
    "short": {
-    "score": -0.028476849598525634,
+    "score": -0.11295763547966568,
     "confidence": 1,
-    "n": 14
+    "n": 10
    },
    "medium": {
-    "score": -0.07607978603112432,
+    "score": -0.13692123723703387,
     "confidence": 1,
-    "n": 22
+    "n": 15
    },
    "headlines": [
     {
-     "title": "Asian tech stocks plunge on AI spending fears, Japan's Nikkei enters bear market - Anadolu Ajansı",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXViVlZSZXRIQVdIN1FhVHFnanFpZHVpSU5vNkNlczVyUzFzRXpZcDQ5NHgxY0k4c3g4WDNFbmJWOGo1M3VTeVFjb3R1YllnMzdtZG5BNmpjZVNhU0tiWU9BbUxfbld5Z1hSbWdmQTROSDRDMXgzS1JXUFB0ZjF4MzdKYWxVek8zT2Y4ZUw2R3h3bmlSUmgzcjBFVkhLY2tPbjZaLWFjWFI1YmZNemd3LUtMZUppMkJrbGc4?oc=5",
-     "source": "Anadolu Ajansı",
-     "pubDate": "2026-11-06T06:47:50.000Z",
-     "lang": "en",
-     "score": -0.8336546070121553,
-     "matched": [
-      "plunge",
-      "fears"
-     ],
-     "ageDays": 4.790654537037037
-    },
-    {
-     "title": "決算:JTに1.3兆円の損失リスク、減配懸念も 子会社がロシア管理下に - 日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5US0gyX2JWTkF6c2d2Sk9XeUZxMnlubTMzaEl5TUZuSmhTUWZxTF9XaUlBaUYzbXhVLWd3eVRPSEloVVRQS1hjeGt0MXhvcXNTb2wtMkhEaVZic1NlQmZXa1pkeXgwSDdaYjV0Yg?oc=5",
+     "title": "住友不動産、株価3カ月ぶり高値 27年3月期上方修正と配当増額 - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kenVVdkFPeEJHbi1xZDFJbGRCTkN0QVgtQnBITlRxSzEyckNaMUJfVW1YSG9aTzh0R19SbGhLT0xWYmdsOHhQOEhwNmlHcUpCejM1Y0NQajkxdjJ1ZjI0TDF5Q0MyYW9MMFJOeQ?oc=5",
      "source": "日本経済新聞",
-     "pubDate": "2026-11-09T19:00:00.000Z",
+     "pubDate": "2026-11-11T02:03:19.000Z",
      "lang": "ja",
-     "score": -0.7615941559557649,
+     "score": 0.7615941559557649,
      "matched": [
-      "減配",
-      "懸念"
+      "上方修正"
      ],
-     "ageDays": 1.282205462962963
-    },
-    {
-     "title": "日経平均株価65,000円割れ 株価急落につながった3つの要因 野村證券・大坂隼矢 - 野村證券",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9feUxPODFpN1RkNGRqYTViSUpTNk1wTFVlM2JFdXBDaGNxZVZITnNHZEhIUG1kRmtYd2RlTUhjeUZOTFhWU2U0cnNSSUlKZUQxT291bkhROFlEekpad1FF?oc=5",
-     "source": "野村證券",
-     "pubDate": "2026-11-06T08:00:00.000Z",
-     "lang": "ja",
-     "score": -0.6640367702678491,
-     "matched": [
-      "急落"
-     ],
-     "ageDays": 4.740538796296296
+     "ageDays": 1.0296845949074074
     },
     {
      "title": "日経平均株価の調整はまだ続く？エコノミストが読み解く株価急落の背景と先行き（愛宕伸康） - トウシル",
@@ -204,45 +179,19 @@
      "matched": [
       "急落"
      ],
-     "ageDays": 0.11553879629629629
+     "ageDays": 1.1569878356481482
     },
     {
-     "title": "日経平均6日ぶり反発、自動車・銀行など幅広く買い戻し プライム9割上昇 - 日経CNBC online",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LVGVkaG5nSUNrTkNpcGFzcFJuVGxjTkdzdzB4bEhwNWZ1TzVQV3FsakpLc014V2lqV0VEWXYtaDF6MlZHZ0phem5GaGFESzhQU2I1aQ?oc=5",
-     "source": "日経CNBC online",
-     "pubDate": "2026-11-09T07:07:00.000Z",
+     "title": "日経平均株価65,000円割れ 株価急落につながった3つの要因 野村證券・大坂隼矢 - 野村證券",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9feUxPODFpN1RkNGRqYTViSUpTNk1wTFVlM2JFdXBDaGNxZVZITnNHZEhIUG1kRmtYd2RlTUhjeUZOTFhWU2U0cnNSSUlKZUQxT291bkhROFlEekpad1FF?oc=5",
+     "source": "野村證券",
+     "pubDate": "2026-11-06T08:00:00.000Z",
      "lang": "ja",
-     "score": 0.6640367702678491,
+     "score": -0.6640367702678491,
      "matched": [
-      "上昇",
-      "反発"
+      "急落"
      ],
-     "ageDays": 1.777344351851852
-    },
-    {
-     "title": "日経平均株価、一時6万円を回復 米AI株上昇や原油安で - 日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80ODJjZnVGSURCVHdhVWJYdlVkTlhyUFBmN3lpWGtoaEhkdFZGSTFpWXRsUmt4M0J3QUEwS2MxWUM4eVV6Z25XY0Zlclp1V3dOdW1VQjdSelJUOWlDbnI3TUFBQ2Q2eS15OVdNVA?oc=5",
-     "source": "日本経済新聞",
-     "pubDate": "2026-11-10T00:07:08.000Z",
-     "lang": "ja",
-     "score": 0.6640367702678491,
-     "matched": [
-      "回復",
-      "上昇"
-     ],
-     "ageDays": 1.068918425925926
-    },
-    {
-     "title": "個人のAI株ブームに陰り ネット証券4社、4〜9月72%増益も減速の兆し - 日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pMVRiUDVPWDFmblFBR0stRWFud1lKc3F3Um5zNXh6SldiWWxrWTdKRFd5bk9pUHJhWGZIdXZBQUJkZEllWGtIQ1VFQ05pbENXdWxhMC1DVklBdW1jeHNlOEQ1ai1CTU1Fam9pRw?oc=5",
-     "source": "日本経済新聞",
-     "pubDate": "2026-11-09T17:00:00.000Z",
-     "lang": "ja",
-     "score": 0.6640367702678491,
-     "matched": [
-      "増益"
-     ],
-     "ageDays": 1.3655387962962964
+     "ageDays": 5.781987835648148
     },
     {
      "title": "NVIDIA株、2日で10%急落 後継者「見つかるかも分からない」問題 - 日本経済新聞",
@@ -254,19 +203,67 @@
      "matched": [
       "急落"
      ],
-     "ageDays": 0.1800063888888889
+     "ageDays": 1.2214554282407408
     },
     {
-     "title": "決算:ソフトバンクＧ最終赤字7680億円 4〜9月、米データセンターで損失 - 日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vc1Vmck5PNjg3QTZQSGtoMGtVMHVMTTFxR3poR2RwSWI2alA1QUhQS0xQeS1BcWJJX0RqQzhITDh6VHhZQ3MxS3V5WTYwRGxMNkVDYzhoZU5ZZFpkTUdfWjIzazF6SjFsaDJMMQ?oc=5",
+     "title": "＜米国・時間外＞エヌビディア急落 ファンCEO解任準備と報道 - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVUkxTWTNQR2JNVnZyd1VLeDhjV05XSVp3Tl9oSktaLWl5aUctZm9kQnVXTHFJemthb0xURy1SSHdGbHBoODVaVkttd0ZjMXdDQXlMRUpDekFKRG5pdU9lMkdQZUVtcV80dDk1ZQ?oc=5",
      "source": "日本経済新聞",
-     "pubDate": "2026-11-10T06:39:48.000Z",
+     "pubDate": "2026-11-11T23:39:14.000Z",
+     "lang": "ja",
+     "score": -0.6640367702678491,
+     "matched": [
+      "急落"
+     ],
+     "ageDays": 0.12974246527777777
+    },
+    {
+     "title": "日経平均株価「次の最高値は2年後」の衝撃 AIブームの反動大きく - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tUU9ZQU5MY2w3SmxDalB0aGttd256cGd3LXdacG5TWFlXY2lscnBWTWx3WjhMdkxXVS1mWlRjQl9CNFZGdkxwSzNtdGYweWsxZTRfeXpQbFkybHlNM24yMWZEX1dYQzQ5ODJjYQ?oc=5",
+     "source": "日本経済新聞",
+     "pubDate": "2026-11-10T23:22:30.000Z",
+     "lang": "ja",
+     "score": 0.5370495669980353,
+     "matched": [
+      "最高値"
+     ],
+     "ageDays": 1.1413628356481482
+    },
+    {
+     "title": "ソフトバンクG、株価一時10.5%安 4~9月最終赤字 - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qTEh0eEpnRFJzY2drbTNLSHhXMTJMVWdlTV9WTHZzLXNHWGs2TUVFTzlPWmdGMGFiZWdoOEdPamJpVkxRZjB4aHZDajB4QzVidzNfYmdVSVhCYVl4UWVpRHpCTW43akRkYlJYVg?oc=5",
+     "source": "日本経済新聞",
+     "pubDate": "2026-11-11T01:29:06.000Z",
      "lang": "ja",
      "score": -0.5370495669980353,
      "matched": [
       "赤字"
      ],
-     "ageDays": 0.7962332407407408
+     "ageDays": 1.0534461689814816
+    },
+    {
+     "title": "日経平均は年末にも最高値 堅調な業績追い風、シティG証券・阪上氏 - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVbWNwdmtEelZjQmJSRVJqVXo3N1pndlFEOU9RSjNVdVltbzJmQXBHSGI0azA1ejZnNzJLRUpHZVp2eWMwQl8wOGJrRmczN0MxcGpPalZ2R0wwR3A0eHFoa1RaWkc2VnlYd0lfeA?oc=5",
+     "source": "日本経済新聞",
+     "pubDate": "2026-11-11T08:00:00.000Z",
+     "lang": "ja",
+     "score": 0.5370495669980353,
+     "matched": [
+      "最高値"
+     ],
+     "ageDays": 0.7819878356481481
+    },
+    {
+     "title": "Japan Stocks Face Volatile Week After Historic Selloff - News On Japan",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05TmhRQnUycTdNcjdfVUpiTlA1TGJSQ19SQmpiX1BBWkZZSi0yTUFsUWxPTG9QTVNFd3dwOFVWTV9XV1hFQlAtY2NjaTdtS1lSbWo5eA?oc=5",
+     "source": "News On Japan",
+     "pubDate": "2026-11-08T17:51:57.000Z",
+     "lang": "en",
+     "score": -0.5370495669980353,
+     "matched": [
+      "selloff"
+     ],
+     "ageDays": 3.3709114467592594
     },
     {
      "title": "AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week - WRAL",
@@ -278,7 +275,7 @@
      "matched": [
       "sell-off"
      ],
-     "ageDays": 5.039068888888889
+     "ageDays": 6.080517928240741
     }
    ]
   },
@@ -286,27 +283,52 @@
    "id": "europe",
    "name": "欧州",
    "short": {
-    "score": -0.3799489622552249,
-    "confidence": 0.4,
-    "n": 2
+    "score": -0.27100663542800274,
+    "confidence": 1,
+    "n": 5
    },
    "medium": {
-    "score": -0.3085015451194426,
+    "score": -0.23473871157956128,
     "confidence": 1,
-    "n": 9
+    "n": 12
    },
    "headlines": [
     {
-     "title": "レーンECB理事、データに変化なければ12月利上げ賢明－経済に底堅さ - Bloomberg.com",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94T2FaRjVPcHhRTE4xbmpET04xM2txQkd0M2ZuVU1FdWdpcGlRUDhQNW5WUEJfVHdhVVlGVWtZUlF3U21fZ2JMQTJsLTgxek1weElpQW13TjJMakpoZDV5VFpNYW1wUlk0d0UxZFJzTHh2N0RsLWlr?oc=5",
-     "source": "Bloomberg.com",
-     "pubDate": "2026-11-10T08:58:39.000Z",
+     "title": "ECBの12月利上げに十分な根拠あり－ナーゲル氏、インフレに懸念示す - Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rRjA5WDh3TEpLb0lVdi1sdDhxWXRMSkFZeDl4MURkeW84eVRCQUJiSTRLMkVsZTVzM1I1c1RTelFGNm91cE1ZMm5na2NVaUdIWnhwbDh0WEVrbDg1aG9qQzBvLUZPOXVfcVpnVTdxTVVNX1hsbGZz?oc=5",
+     "source": "Bloomberg",
+     "pubDate": "2026-11-10T18:16:50.000Z",
+     "lang": "ja",
+     "score": -0.6640367702678491,
+     "matched": [
+      "利上げ",
+      "懸念"
+     ],
+     "ageDays": 1.3536313541666667
+    },
+    {
+     "title": "巨額の円買い越しでも円高にならないのはなぜか？貿易赤字の拡大とフランス危機が示す円安再開リスク 【唐鎌大輔の為替から見る日本】日米金利差だけでは説明できない円相場、投機筋の思惑を打ち消す「実需の円売り」(4/4) - JBpress",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12a25najdsWVhyUlZ0bjQtN0tBemd5RXYxS25lb19yZ0R4Q0ZBbkgzd2p5RWo3Y2RkbmFVcWZpYXBQbnI3NzhFdU42X1ZTNnlPZV8wcml6YnVfZ2pEaXRr?oc=5",
+     "source": "JBpress",
+     "pubDate": "2026-11-09T21:00:00.000Z",
+     "lang": "ja",
+     "score": -0.5370495669980353,
+     "matched": [
+      "赤字"
+     ],
+     "ageDays": 2.2403211689814815
+    },
+    {
+     "title": "英中銀、３年ぶりの利上げを決定 ～追加利上げは慎重に判断～ | 田中 理 | 第一ライフ資産運用経済研究所 - 第一ライフ資産運用経済研究所",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xRXpWWDFwdExQRXpSRVdKTDE5dzhnVXpfZXlsWURHZGVrcFU5c1BzdjQtVkZ0b2RIT245eFVvLW15X3VkLTJOdzh6ZHBaazFPU2dBczNYM3c1R1U?oc=5",
+     "source": "第一ライフ資産運用経済研究所",
+     "pubDate": "2026-11-06T07:46:16.000Z",
      "lang": "ja",
      "score": -0.3799489622552249,
      "matched": [
       "利上げ"
      ],
-     "ageDays": 0.6998096296296297
+     "ageDays": 5.791524872685185
     },
     {
      "title": "ＥＣＢ、12月利上げ必要か指標見極めへ＝ラガルド総裁 - Reuters",
@@ -318,7 +340,31 @@
      "matched": [
       "利上げ"
      ],
-     "ageDays": 5.374566574074074
+     "ageDays": 6.416015613425926
+    },
+    {
+     "title": "レーンECB理事、データに変化なければ12月利上げ賢明－経済に底堅さ - Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94T2FaRjVPcHhRTE4xbmpET04xM2txQkd0M2ZuVU1FdWdpcGlRUDhQNW5WUEJfVHdhVVlGVWtZUlF3U21fZ2JMQTJsLTgxek1weElpQW13TjJMakpoZDV5VFpNYW1wUlk0d0UxZFJzTHh2N0RsLWlr?oc=5",
+     "source": "Bloomberg",
+     "pubDate": "2026-11-10T08:58:39.000Z",
+     "lang": "ja",
+     "score": -0.3799489622552249,
+     "matched": [
+      "利上げ"
+     ],
+     "ageDays": 1.7412586689814815
+    },
+    {
+     "title": "ＥＣＢ、12月利上げ必要か指標見極めへ＝ラガルド総裁（ロイター） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nX3RvcFItTmhpSVBaa25ZVUlxLXVrbFdhU0FFSVV6RU5sbkY1amlRVDY3UkhEMkJaLTlPRmVMT29UaEpMZzFOVDdWeXBMT181cF9IR3h4d2pTcmFfRHFiYkp6NzlWSE9BSXJzcGdVQlNtMmtocXZLN2dsdWNac3M?oc=5",
+     "source": "Yahoo!ニュース",
+     "pubDate": "2026-11-05T16:47:27.000Z",
+     "lang": "ja",
+     "score": -0.3799489622552249,
+     "matched": [
+      "利上げ"
+     ],
+     "ageDays": 6.415703113425926
     },
     {
      "title": "【要人発言】ECB専務理事「12月理事会での追加利上げを選択することが現実的・慎重な判断」(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
@@ -330,81 +376,43 @@
      "matched": [
       "利上げ"
      ],
-     "ageDays": 0.7382587037037037
+     "ageDays": 1.7797077430555555
     },
     {
-     "title": "多くの欧州中央銀行当局者は、12月の利上げを強く求めている。 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzJkSUJraHZqRy1XTDhYZlJxNzllYWM1QmVfOTU0b2t2NURlOEY1Z09wV0t4d2VxUmhfeGVkT3FKU1VyOXlxN0RJMHp4N1BXSkFiWkQ5aTZLbzhRcUpoX21XY1RleTBtUWlXYm5pdGk4ajRaS3pFM0gyb2FEUmdfYUpIZnlIbWZiMVpKSTZqUTNCSll5QXRJ?oc=5",
-     "source": "Vietnam.vn",
-     "pubDate": "2026-11-04T08:31:39.000Z",
+     "title": "欧州２年９カ月ぶり利上げ 中東危機対応、主要中銀初 - 山陽新聞",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZcFYwWHQtR1p1cVY0dTZVWkhfaEtZOVZEMkVOV0VCXzEyU0JlVWp6Mm1vQkJIdnRERGZ1LWItZW1PLU1YS3lyUk9qc2RtR19od0h5dTRQbHp4MVZmWVBnLXhvaHRIaWhsLXMwWlNVNVZZdkQ0?oc=5",
+     "source": "山陽新聞",
+     "pubDate": "2026-11-07T02:34:06.000Z",
      "lang": "ja",
      "score": -0.3799489622552249,
      "matched": [
       "利上げ"
      ],
-     "ageDays": 6.718559629629629
+     "ageDays": 5.008307280092593
     },
     {
-     "title": "欧州中央銀行（ECB）本部にある通貨ユーロのシンボル＝ドイツ・フランクフルト（ゲッティ＝共同） - ユーロ圏物価4・0％上昇 10月、3年ぶり高水準 - 写真・画像(1/1) - 西日本新聞me",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZV3NsRDlMRzlVUDhRVmxzMTAxZTdyZWJvMlgtemIwZnpiMV9mTUNibjh4WnFHOEhtcVpnWXR5dmtZWnBuT1NPbkdwRnItOUxtRUI5d3B1bw?oc=5",
-     "source": "西日本新聞me",
-     "pubDate": "2026-11-04T14:10:02.000Z",
+     "title": "ユーロ圏物価４・０％上昇 １０月、３年ぶり高水準 - 山陽新聞",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56bTRyNGtIaXpLSWdJekc5dUh5V0Uxd3RHVENkMVlKOGJnZWpKM3lPMkJjZ0FkbW5HcGdOckM5NXJ3aWozUEh0RU9EUWd4RUZ5VUE?oc=5",
+     "source": "山陽新聞",
+     "pubDate": "2026-11-09T21:44:03.000Z",
      "lang": "ja",
      "score": 0.3799489622552249,
      "matched": [
       "上昇"
      ],
-     "ageDays": 6.483571203703704
+     "ageDays": 2.2097308912037037
     },
     {
-     "title": "インフレ率が過去最高水準に達する中、欧州中央銀行（ECB）は利上げを求めるさらなる圧力に直面している。 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVVQZXN1UEJObW5BWUFaTElYNjA1bzl0WWJGWXlxdW54emF0WENaWHFyUDV5RnB1OGh2b1VEWnk3RmVFMHdydjctYmVoWmlITlZOQlpyckU2bmJXOFFtVDcydmQyOFFmS0p3cXpBbXJSdXdZNmdEaFlFNFJ0VE03bTIyU2UtMFc5?oc=5",
-     "source": "Vietnam.vn",
-     "pubDate": "2026-11-04T15:42:42.000Z",
-     "lang": "ja",
-     "score": -0.3799489622552249,
-     "matched": [
-      "利上げ"
-     ],
-     "ageDays": 6.419219351851852
-    },
-    {
-     "title": "Eurozone Inflation Rises to 4%, Boosting Case for ECB Interest Rate Hike in December - Morningstar",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2lwXzA2YjJaNWJINEpWeTRKb3JJby16Q3I4S1RaR2t6em55ZHlqdno4aGh0RHBzSUsyaHU0M3dFQnc0a0tvRTB3SjlqamJKZmhtbmVnVjNGWU5NeHFKQjI3WWkxVkZTbC1ONGtYZThITHByQ3JBSktucEp0YjhYZF9kaTFuVVozbWtpLWxMWHp2NVNORGZWQ05FZ2dDMTZPRUVjaWFhX095SUE0MllVUnlYRHQ1R1NB?oc=5",
-     "source": "Morningstar",
-     "pubDate": "2026-11-04T11:26:03.000Z",
+     "title": "ECB’s Lane: Another rate hike prudent as year-end inflation is expected to exceed 4% - www.tmgm.com",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRVBFRlUyQlJ2RUYwNE1pb2t2WFlLMHlkNEhsakk0S1lzNFM5WVlKdDhqcjE0bTBnZmlxSzVvOUhxNU53LThGYzNGVF9acDExR0VtU1F0bG41a051YTAwMmtieG9LejhnOXA4TElfTzdnNXVCMFphVGtMUTdHRF9rdWFUaWYyblpfWnl6Zk5hMm1Ed3ZnYzhxbkFDNW1FWURoOEJ0R1JXRVB4SDJvNWJ4Zm84MjBELWJ5WXduaWRzVmVMU05qWmlxSUw4eHBJT0hjUTJB?oc=5",
+     "source": "www.tmgm.com",
+     "pubDate": "2026-11-10T16:27:06.000Z",
      "lang": "en",
      "score": -0.3799489622552249,
      "matched": [
       "rate hike"
      ],
-     "ageDays": 6.597448518518519
-    },
-    {
-     "title": "Europe’s economy brushes off energy shock from Iran war, shows moderate growth in Q3 - Jamaica Gleaner",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHJoY3lkcmc3aVhMOG1XVDlESzlGazFSa21va1NTejhMbkFHYlEtR1RNalVBNDN4eUl5NmVMaGNZUUxLNUlzdzBNeUdzSDRfaTFvMV9lYWZITWQtdVJBdEZYQ0VZZ1M1bEpfX2ZxVEhKUXltNnk2UV9vTXBMVzgyOW8xZVRvd01SR25TQ2RYRFdIWW43bVRNSVoyZXVkYXoySHJLU0JIUG54T3I2ZjRaOTVhMkI2emtpLXUwZnZPa1c?oc=5",
-     "source": "Jamaica Gleaner",
-     "pubDate": "2026-11-04T10:15:01.000Z",
-     "lang": "en",
-     "score": -0.3799489622552249,
-     "matched": [
-      "growth",
-      "war"
-     ],
-     "ageDays": 6.646777222222222
-    },
-    {
-     "title": "インフレ率が4％に上昇したことで、欧州中央銀行（ECB）が利上げに踏み切る可能性が高まった。 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS1QtVVJfeGpLNVVrOTBWT0JKNGNBX0FMbzZvNmJKY041dTY3TFJGU1NYTjIwbnJxUl9MY20wc1I1QXlpOGVoTlN2aEJsUl9IM1ZBMWlRSnBxWkZtd1NMeVRFR2lQRmx0V2FNMDVfYVRXYlQwSU9yaEgzQ2dYWm9lc3paVGRPLVk?oc=5",
-     "source": "Vietnam.vn",
-     "pubDate": "2026-11-07T03:14:24.000Z",
-     "lang": "ja",
-     "score": 0,
-     "matched": [
-      "利上げ",
-      "上昇"
-     ],
-     "ageDays": 3.9388721296296296
+     "ageDays": 1.4298350578703705
     }
    ]
   },
@@ -412,14 +420,14 @@
    "id": "china",
    "name": "中国",
    "short": {
-    "score": 0.3234775202594674,
+    "score": 0.3129920108268372,
     "confidence": 1,
-    "n": 16
+    "n": 17
    },
    "medium": {
-    "score": 0.3085697861524238,
+    "score": 0.32600661675533493,
     "confidence": 1,
-    "n": 22
+    "n": 25
    },
    "headlines": [
     {
@@ -432,7 +440,7 @@
      "matched": [
       "soars"
      ],
-     "ageDays": 0.9613721296296296
+     "ageDays": 2.0028211689814817
     },
     {
      "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
@@ -444,67 +452,55 @@
      "matched": [
       "soar"
      ],
-     "ageDays": 3.6571360185185187
+     "ageDays": 4.69858505787037
     },
     {
-     "title": "Iranian delegation at China import expo says ‘indirect trade’ up since war began - South China Morning Post",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQVVsakFTeHV5LU14ZjEtXzRwbGduLTNFZHctRzYwdmNQelp0ejJrblA0Sml2MjJvalpoaXdHUmRWWC1DTHd3ajlFTDBPdWc5czVTQ3ZWdDJZNkl6dzUwa2VIeFZuVGNQNGFxdENYQWZmWGlKUVBxSzhBSlFMYWY2VXNiOTFHOERLVXRqVnVnU1dyMGNZWDVncEpRN1dCaG1KNjFjYng5c3lNR29yNUZsbzFDbU5qeXNvR1hOTzVaRUd5SkphTGlnemlCdmlBdnA50gHQAUFVX3lxTE80TXNjNHpDMWFKNjBQMEl3SlZGdnd6a2F1Z25hejFuUVVyWmZ2R3libVZXaEJDUXBiTmZEcTU5VW14UUR1QS1ncHJxbXJ0VnN2Y3VlSk9lRkVRUjhTNXQtNWxhX0p4WmtVMnQ1VlFaLTczZy1WMUhoLW1WVmpfYXJXY2MtazlNdGZzRmMzMmk1TWs2RGdBalBWLUdjZDJleFdfNFU0d05MZGZWZ0JBUE1GMmFYYVNXY0hyZjlhaUF5SlhtNW9qTHN1VVFkLWZEY2o?oc=5",
-     "source": "South China Morning Post",
-     "pubDate": "2026-11-10T11:00:08.000Z",
+     "title": "Iran Bets on China to Help Rebuild Its War-Battered Economy - The China-Global South Project",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTG9nUTFBLWJBZWdjLS1UNHdtUTVUc2pkQm02ZmJSeEQ1cW9XTkhTR2pqdHQxWkhBWDQ1Y2tpM2NlNkNMNUx2czBWMFVSVWZPdlZXWUVaUEtFYVB1VUxUT044QkVuWlJSdF9BdEtBWklhelNBNU52Z04tNEt3Z3prVUF3R2FGVHFTejFF?oc=5",
+     "source": "The China-Global South Project",
+     "pubDate": "2026-11-11T05:51:43.000Z",
      "lang": "en",
      "score": -0.6043677771171636,
      "matched": [
       "war"
      ],
-     "ageDays": 0.6154462037037037
+     "ageDays": 0.8710734837962963
     },
     {
-     "title": "China's trade surplus soars past US$1tril as AI boom powers exports - NST Online",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUUw0NjRUZkNGMFc1aWlUalhRbEpQQk4tUDBMdmJMVVZVUC05ZHBOcDVqVXVVQ0EzZ0wwckpaTmJ6cm42bHdSaEJENHJxMjhNa2ViYXdLSERib2ZvZHJES0MyQlRBU0tibkp2VV9KcjA2MmdkVldNanhsWmpFbkVkc0tBeG5DbDBjOW01c0tNeE1KTGJUMUZzcGU3UkpMbW5fci01b1dfQzNGNF9BT01nWXdycV9aVlBOYWfSAb8BQVVfeXFMUHJsZDJzU3d1X3ZRRnRvY0RHblJiLXFMc0NiY3MzcDl2VXpYOEFKRkVTNVVCOGVqOE0wbDdQTDY1b2RJZl9sUHBEVV93OTNJRG52N3N2TDd0NnR3ZWJUWmlMaTA4SWJyYkJUZDhxaTJ4c3kzQno4WF84Qk9GMnZWeFoxckpsZUVFcW8wNWxqQTQ0aWNzZ2dXYXh5VXZTWm1Ea2FaVDM4R1BQMG5pZTBsNU5BSENzVXFramVSa0ZCQ2c?oc=5",
-     "source": "NST Online",
-     "pubDate": "2026-11-10T03:13:57.000Z",
-     "lang": "en",
-     "score": 0.6043677771171636,
-     "matched": [
-      "soars"
-     ],
-     "ageDays": 0.9391846296296297
-    },
-    {
-     "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-     "source": "AP News",
-     "pubDate": "2026-11-10T03:20:51.000Z",
+     "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year as exports surge 35% - NBC News",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2YzUTV6Z3R2aFFVQWF6dDFXbmlUeEw1ZllKRGIxRnBDeHFDVUxMWF9zWW0tb3ZZNlNTWWRuU2F2RlRXU2o1LXliNXhzZ0lpelFPbWZkbXpiLVFRT3ZPX1Njd25rMm41dTVNQjRKbkJzRTdDZ0V1NzF4aVJ2b0FxSUpRZGlmSVY5d1lQNmFHZjZHdDVGblp2MnA1eGdoeXlSekxFVS1yMnF5dWpqdlkzTXhqRQ?oc=5",
+     "source": "NBC News",
+     "pubDate": "2026-11-10T07:48:15.000Z",
      "lang": "en",
      "score": 0.5370495669980353,
      "matched": [
       "surge"
      ],
-     "ageDays": 0.9343929629629629
+     "ageDays": 1.7901475578703703
     },
     {
-     "title": "'China's economy is doing really quite badly': British author stunned by tech boom, economic slump - Business Today",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdTdIUU1tVTA2RU9KVV9POW5kQUFuVm4yRUdiSXVPQWxSRy1SXzBIWUdiZm5Pb191QkxHVkxnWWhiZVNNYjdrV1U1ZGVYUjQ4SkFaNDFCaTE0QkFoZ0JrX0pQQjV2R21BcWUzdFcxVmRYZWFrRlRqOHZTOEV5MWlCbDNWTnl3dXo0UHJsY2xDMk9iNHpCY1NIczNxWUJJb3hMZzU5UmlMQ0JvSmVPcGdwdHYwTzd2d0FqRzUwYkwtclpRUU5tbUNkVVROSG52Z0dHUEZHdTBmbUxMc0xuQzY0b29zWmJPSlc1azZfOGM5MVNUeGvSAfgBQVVfeXFMTWw5Q0c4TGxrTDBWTHBBakRsdGF0bldvR0ozM1dCdkdXVG9uU1c4c19pS0RxbmMxOXNOUUNLSHRuSzRhcUhZX0haSW9NV2hFX0Y4dVR0T1hKWmRwa2ZGVkFpSjE0eVR2OERTZDl1clgxOGhkaHgwdTVwOV92Tm9MQzQ3ZmZ3cU5ab2FuQzZHMnJXMEpmdjA5Zms3OWZmb0ZlOTBCLWstVzk4RnJ4UlIyVkkxdm9HVUN1UGo2MlFOTDNwUGpCTDZTY2VwRlh6Nm1KVWlGcDQ0M3Y5eUpYNUh0MUdCZXJzWUlycm50cFh4RXRGMnhWRV9TMEY?oc=5",
-     "source": "Business Today",
-     "pubDate": "2026-11-04T11:16:59.000Z",
-     "lang": "en",
-     "score": -0.5370495669980353,
+     "title": "中国の貿易黒字が「1兆ドル」を突破しても、中国経済が危機から抜け出せない理由（ニューズウィーク日本版） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zT0dVVVVXdy1MUFFCcU94N25HUFg0Rk00UHN0U2I1ZTB3TFdCTjduNm9jNV9PRVF6SVdaQTN4cFBpUUxNUkZMbElVZ215M0ZXM2MweGFHa05rVEF6Q243V2xLTHVEMmgzTEdEbVllTjdlcGk2SkZnU0ZUMk1LSVU?oc=5",
+     "source": "Yahoo!ニュース",
+     "pubDate": "2026-11-11T08:20:02.000Z",
+     "lang": "ja",
+     "score": 0.46211715726000974,
      "matched": [
-      "slump"
+      "黒字"
      ],
-     "ageDays": 6.603744814814815
+     "ageDays": 0.7680757986111111
     },
     {
-     "title": "China's Two-Speed Economy Laid Bare As Factory Prices Surge But Consumer Inflation Weakens - London Insider",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHkxbFVpdnE2MlpqcDVHMVpQRTRaQy1pZ3NIVjEyZDNpcHRzelNlM2h5YmtwMkpsMUlENnU0UVI1ZkpfQzEwNDVtMUtfNWZWVDJDUE9aaTQzSXR3UGdfWGFQTjNjNy1IX1dEUjcwRVdPVVU0YzlyOXoweHNJMlR4WGIwcUhGRm95WU5nZnV4R3lKT0RSNWxTZER2VWNpUHluTVVrc3FDenFyUzFhc2diTDVLRFRPUkRFR0E?oc=5",
-     "source": "London Insider",
-     "pubDate": "2026-11-09T19:10:51.000Z",
-     "lang": "en",
-     "score": 0.5370495669980353,
+     "title": "中国の貿易黒字が2年連続1兆ドル超 1〜10月、各国との摩擦悪化要因に - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CZ1UzSTJfTnM2REFIQUZVb0lXSk9XUE9RVGxqcWY1cElKdzBMSXZhekZTVFZzN1F2RFR6Q1V4SGs5eGFGRTZGYjJudm52d3piTk9WMHZTeG1vVkFXUW1UWjUzdlFQY1NuVm1FUQ?oc=5",
+     "source": "日本経済新聞",
+     "pubDate": "2026-11-10T06:40:52.000Z",
+     "lang": "ja",
+     "score": 0.46211715726000974,
      "matched": [
-      "surge"
+      "黒字"
      ],
-     "ageDays": 1.2746707407407407
+     "ageDays": 1.8369415393518518
     },
     {
      "title": "中国貿易黒字、2年連続1兆ドル突破 ＡＩブームが輸出押し上げ - Reuters",
@@ -516,19 +512,31 @@
      "matched": [
       "黒字"
      ],
-     "ageDays": 0.9565110185185185
+     "ageDays": 1.9979600578703705
     },
     {
-     "title": "中国の貿易黒字は1兆ドルを超えている。 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TjdhV3p6RkFmektsb0dvVzV0TFpCazlyOTE2dlpkT1NHWlcyVXB6NFdSbVV3ZXdPekd6OWZ5a0ZUQ3V1QW44RnFhOGJFZWh3NUdtSHlnaFRlYWpnc21BU2lzeXVpYTBXRXptRGZaekoxekVoYWxPaUdkbzJ1b2s?oc=5",
-     "source": "Vietnam.vn",
-     "pubDate": "2026-11-10T09:17:58.000Z",
+     "title": "中国の貿易黒字が「1兆ドル」を突破しても、中国経済が危機から抜け出せない理由 (ニューズウィーク日本版) - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNk1fZVJMUDR0aHpwZWRhRWEtR25qd0ZUNzIyTjZObVRvVlp1NnNsU3JkX1FqM2VLNFQ4d1dKalViMERpVFR0eWV2Q2xUZ0NFRUJmYmxQTVpHcnczZlo5Z2hEclRRS3V0ME1lU0Y0dUxfTElKMkR1SzlCTnRtbHlaWHpfWHJldm1yNEo4Zl9B?oc=5",
+     "source": "Yahoo!ニュース",
+     "pubDate": "2026-11-11T08:20:02.000Z",
      "lang": "ja",
      "score": 0.46211715726000974,
      "matched": [
       "黒字"
      ],
-     "ageDays": 0.6863952777777778
+     "ageDays": 0.7680757986111111
+    },
+    {
+     "title": "中国の貿易黒字が「1兆ドル」を突破しても、中国経済が危機から抜け出せない理由 - ニューズウィーク日本版",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LaHp1SlRCQXdudG1BNXdXUElLdU14MEl4UEJKTDI5VkhucTJUMTd0UjllRVhJQWJ3NlIwYTAzM21lejY2S1duWXJxOFNJZDc5bUlIc1JnRl9CZTIxY25ucHNSX2JkNEk?oc=5",
+     "source": "ニューズウィーク日本版",
+     "pubDate": "2026-11-09T08:00:00.000Z",
+     "lang": "ja",
+     "score": 0.46211715726000974,
+     "matched": [
+      "黒字"
+     ],
+     "ageDays": 2.781987835648148
     },
     {
      "title": "1兆ドルを超える貿易黒字を抱える中国は、EUからの脅威に直面している。 - Vietnam.vn",
@@ -540,7 +548,7 @@
      "matched": [
       "黒字"
      ],
-     "ageDays": 0.6552494444444444
+     "ageDays": 1.6966984837962964
     }
    ]
   },
@@ -548,28 +556,42 @@
    "id": "middle_east",
    "name": "中東",
    "short": {
-    "score": 0.002589561810242598,
+    "score": -0.09996417680101011,
     "confidence": 1,
-    "n": 24
+    "n": 29
    },
    "medium": {
-    "score": -0.030542888565239297,
+    "score": -0.05183147866814445,
     "confidence": 1,
-    "n": 35
+    "n": 44
    },
    "headlines": [
     {
-     "title": "［東ソー㈱］中東情勢緊迫化で製品価格上昇 中間決算・増収増益、売上高は過去最高 - 新周南新聞社",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80MnJuWWd1dmxKTDJHOU9MREhfYlpFQkt5MkhIMmc1aDl0Snk5VE1TUWp0UjR2MEsxNl95N3hkeWlPZW0wQXhFQmhzXy1mcjNlNm42bnNVU29HRjl5SDBDcWdHdGV2a1M0dnVNNV9VSzdUZ0s4dHc?oc=5",
-     "source": "新周南新聞社",
-     "pubDate": "2026-11-09T02:30:04.000Z",
+     "title": "石油化学３社が増益、ナフサ高騰で在庫価値上昇…全４社が２７年３月期業績予想を上方修正（読売新聞オンライン） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pRjk5NmdPUk1ETDFyVG1zSktxYmtFS3JEVng1TXV6anNYSWlUWGtkRmNoMFJRTXhsVmxSR0V4ZEhzYkhSTjB5eElfN3NhX0hWeUJmYUxvZER5aXBrMEhEenQ5Tk1LWWNPYWVLTmktU0J2YWRDZF8xVGQwSjY0QUk?oc=5",
+     "source": "Yahoo!ニュース",
+     "pubDate": "2026-11-11T14:33:25.000Z",
+     "lang": "ja",
+     "score": 0.9757431300314515,
+     "matched": [
+      "上方修正",
+      "増益",
+      "上昇"
+     ],
+     "ageDays": 0.5087818171296297
+    },
+    {
+     "title": "【山口県】［東ソー㈱］中東情勢緊迫化で製品価格上昇 中間決算・増収増益、売上高は過去最高（日刊新周南） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tbmZjX2tyeGhQNFY4VEw5MzVDRW5zSUI0RVROcFcxOFpuQWtNMUhLcHo5ZnNfTDh6TG11NDZvLUV1LS1oU3gzVTJuNmhVekpNc3hZaS1UZThzcm4tcnd3eFZuRWU3U3VOSm0wWXVRdlF3S3pzSFJpNkd1ak1yQ2s?oc=5",
+     "source": "Yahoo!ニュース",
+     "pubDate": "2026-11-09T08:57:40.000Z",
      "lang": "ja",
      "score": 0.8336546070121553,
      "matched": [
       "増益",
       "上昇"
      ],
-     "ageDays": 1.9696591666666667
+     "ageDays": 2.741941539351852
     },
     {
      "title": "【山口県】［東ソー㈱］中東情勢緊迫化で製品価格上昇 中間決算・増収増益、売上高は過去最高 (日刊新周南) - Yahoo!ニュース",
@@ -582,7 +604,31 @@
       "増益",
       "上昇"
      ],
-     "ageDays": 1.7004925
+     "ageDays": 2.741941539351852
+    },
+    {
+     "title": "海運3社の通期見通し、経常益上方修正…中東情勢の影響は？ - ニュースイッチ by 日刊工業新聞社",
+     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xeko3OTBNbExMcnpKMDRiR0ZPM29OTUNRMEJEOWJqeEhGb0dETHdDMTdIdm5fck9UMDA1Y1hEOGFtQQ?oc=5",
+     "source": "ニュースイッチ by 日刊工業新聞社",
+     "pubDate": "2026-11-11T07:02:00.000Z",
+     "lang": "ja",
+     "score": 0.7615941559557649,
+     "matched": [
+      "上方修正"
+     ],
+     "ageDays": 0.822265613425926
+    },
+    {
+     "title": "〔決算〕サントリーBF、通期利益予想を下方修正＝中東情勢でコスト増(時事通信) - Yahoo!ファイナンス",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFB5N0JrbXFxMkQ3TFEzVnMyb0VETGJZQ2dpUW1mUU0zbXdTUHdYTnFqeEFnSzdwUGN6NWI1WWtVX3llcnFKTWNIdnd1aUNOSnV6MEJ0QVU4X3lHaWZXblQzcWVfZVZpc05Sbjd4V012MFB6NmpJY0tWdmV5UHJZMHhQV01rakE?oc=5",
+     "source": "Yahoo!ファイナンス",
+     "pubDate": "2026-11-11T11:48:23.000Z",
+     "lang": "ja",
+     "score": -0.7615941559557649,
+     "matched": [
+      "下方修正"
+     ],
+     "ageDays": 0.6233882986111111
     },
     {
      "title": "【王子ホールディングス FY2026 Q2 決算説明会】通期営業利益を150億円下方修正、450億円に－中東情勢長期化とパルプ市況鈍化が直撃 - BigGo ファイナンス",
@@ -594,92 +640,57 @@
      "matched": [
       "下方修正"
      ],
-     "ageDays": 0.20998324074074073
+     "ageDays": 1.2514322800925926
     },
     {
-     "title": "シャープ中間決算 中東情勢などによる原材料高で減収減益 - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ReGVpdmpZT3JOX1FZZWVZb1UxekI4WG9pNzc3czRpQVdYclZqSnpyQ19pNEJFQWFJVDgtcEVnam5lSXdBSDQ0ZzFwUWd0Y002S1pXUldtV3ZfVDhhYnFF?oc=5",
-     "source": "NHKニュース",
-     "pubDate": "2026-11-09T10:00:00.000Z",
+     "title": "KNT-CTホールディングス 27年3月期業績予想を下方修正 中東情勢や訪日減、4社統合の費用増が影響 - 観光経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3ZWFMaFVSZ2loSkw5dW92dGpqSDkxODlHSk9IMlI2dDZ5OWZybHIxTVRSUXE3dUQ2aDUwbXVLWm5uQVlNNFp2OEZDRHlJRTltcjlqbA?oc=5",
+     "source": "観光経済新聞",
+     "pubDate": "2026-11-12T02:06:22.000Z",
+     "lang": "ja",
+     "score": -0.7615941559557649,
+     "matched": [
+      "下方修正"
+     ],
+     "ageDays": 0.02756653935185185
+    },
+    {
+     "title": "石油元売り、そろって最高益 それでも「脱・中東」投資に慎重な理由 [＊令和のオイルショック] - 朝日新聞",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mRjN2dDFFWGRQQkkzZ3N3OEcxX1ItM2h2VkRDTEsxVF9LNDBlZjMyblpCS0ItZE9ZWnpPb2dQTG9LVnViU3BVeTNiNGNQOGo3T01iSnhNbi1sZ2pETnZKU0JSNGhZTjA?oc=5",
+     "source": "朝日新聞",
+     "pubDate": "2026-11-11T22:00:00.000Z",
+     "lang": "ja",
+     "score": 0.7162978701990245,
+     "matched": [
+      "最高益"
+     ],
+     "ageDays": 0.19865450231481482
+    },
+    {
+     "title": "車決算「円安の恩恵」で増益・黒字転換、販売競争力は低下…中東情勢の緊迫長期化が懸念材料に - 読売新聞",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QYkQyaXF1dVFJM0lhQV9CaDlDa0pXbUdZLTJVS1NaeGRrQnNlR0FDZVprWVRLaUR0UEdMZ0FtczRJcFFmbTZlUUJTamZQZUV5UmV0QXRuUnRJRWcyNGlFNzhKUC0?oc=5",
+     "source": "読売新聞",
+     "pubDate": "2026-11-11T20:00:00.000Z",
+     "lang": "ja",
+     "score": 0.7162978701990245,
+     "matched": [
+      "増益",
+      "黒字",
+      "懸念"
+     ],
+     "ageDays": 0.28198783564814817
+    },
+    {
+     "title": "決算:サントリーBFの26年12月期、一転減益 中東情勢・熊本地震が重荷 - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82eFZveERiclRUVEFFbmtWX2x2dVJtaVd5SkpVSjVCa1NiQ0xVX3IyckF3UVpiQklaREJDM1ZZSTlCWm9fREJ6dkFfc19BaUc5bm5hMFJVeE0zVkktTGw5X0E3U1dQZWtyUGZPWg?oc=5",
+     "source": "日本経済新聞",
+     "pubDate": "2026-11-11T10:28:31.000Z",
      "lang": "ja",
      "score": -0.6640367702678491,
      "matched": [
       "減益"
      ],
-     "ageDays": 1.657205462962963
-    },
-    {
-     "title": "NY株反発、1104ドル高 中東情勢の緊張緩和と原油安を好感して、ほぼ全面高の展開 - 産経ニュース",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ma1NLSkFxWW5Fc0xudjNral9STFBiazZQVnhUc1B3bzViMldUSWwxbVQ2Y2JSaWtPN0NZeEZ3MEljYTVsdkpjcmxpcVNxaldYTmhCRVRrWVJqR3pOYXBraERueC1VSnl4NnZYWlNWTUJFMERBa1E?oc=5",
-     "source": "産経ニュース",
-     "pubDate": "2026-11-09T22:30:13.000Z",
-     "lang": "ja",
-     "score": 0.6640367702678491,
-     "matched": [
-      "反発",
-      "緩和"
-     ],
-     "ageDays": 1.1362216666666667
-    },
-    {
-     "title": "Risk Appetite Revives on Easing US-Iran Tensions; Won-Dollar Exchange Rate Plunges 9.6 Won to 1,337.5 - BigGo Finance",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VOWlzMWdNakVnaU9naExNc1U5WHEwNng4RGVwc0N1VXBwaFg4TGFucUNJU1Z5UzRvZmtWcWpJZW9wTl9BWGNXczZjWEJHVTJZODU1dXZzc2dHZEhqOUJSVUZLdUhzNm16Nlc5NWV2OXZTaURGYlE?oc=5",
-     "source": "BigGo Finance",
-     "pubDate": "2026-11-10T08:06:00.000Z",
-     "lang": "en",
-     "score": -0.6640367702678491,
-     "matched": [
-      "plunges"
-     ],
-     "ageDays": 0.7363721296296296
-    },
-    {
-     "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-     "source": "Britannica",
-     "pubDate": "2026-11-08T08:00:00.000Z",
-     "lang": "en",
-     "score": -0.6043677771171636,
-     "matched": [
-      "war"
-     ],
-     "ageDays": 2.7405387962962964
-    },
-    {
-     "title": "Dr. Ammar Kahf on Syria’s transition, Iran war, Middle East tensions & normalization - Al Arabiya English",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHpUVFU0OEJDLUFBY1I2LVYzVmpvQTJlcUg2ZVNFRkx2eXNsOUdWUTNxRk1kRjlJM2FuakRJM2c5REFaMXM4SnJ5amFzd1lhelJNWWRTV2w5UnY1X3p3YXRpTU1lQllRNFN3UVJQYl9vOHh4Vnd2M240bmVJUlFRbGZSSEJLc2k1YkVRRXRRMVdEWnUwMl9vZTB2T0RqQ0xmbW5NRVV4YnNYei1jcTNCOTlsRGZyX3R1SjNyUHo5NjFFVHkzMG5IQmZkbGlUaXF5YmlhRExHV3lvUDV4WkNvUndmZ3llcjFjR2w40gHwAUFVX3lxTE96aGN4LVFQcmZiUVVLU0ZSVVV2Q2lMYUtBZFkzbDlGaFdRS1ZMbGpmZ2NCbWJpcURDMDc5dkdJYVdPcEwzcWVleF9BeDZoQmJCN2FMdkhVdmRaOHdiZTdONVhhbHZZdmpIR0dSWnJ5Sm84dmF0VHdhNlF1WElKLUJjSlVuU3F6U05odE1xV3EwQ1Mxb0tIQV9wd2lSWU5EV3lQcUFCNFByanBPRHpGUjhSXzZNZjlpNEZoUkI3ZHFZLWRZaUU1UkNQWUdGZ2g2b0kyUXNRT1pZQzJ0cUQxSDh4Tnp3cWtINHZKa1puMzhuVQ?oc=5",
-     "source": "Al Arabiya English",
-     "pubDate": "2026-11-06T13:29:00.000Z",
-     "lang": "en",
-     "score": -0.6043677771171636,
-     "matched": [
-      "war"
-     ],
-     "ageDays": 4.512066574074074
-    },
-    {
-     "title": "Iran war live: ADNOC vessel attacked in UAE waters - Arabian Business",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-     "source": "Arabian Business",
-     "pubDate": "2026-11-10T15:21:12.000Z",
-     "lang": "en",
-     "score": -0.6043677771171636,
-     "matched": [
-      "war"
-     ],
-     "ageDays": 0.4341499074074074
-    },
-    {
-     "title": "The renewed Yemen-Saudi war has now entered its fifth month - anews - A News",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWNpOEFwX3ZicFBuTThfMHA5WFVuUzU3b0FGd01vdHlrNDNMa0R1alVLbnp3cUZSUlhsbEdZZnVtYS1JUnFuMUhjcFVsZWVPU1Y0OER1ZUVYRXVQd2R4b1NWdnpfX3VnV3JQZ19aQWxibkJxcm1PVkFGeW5GRnRvc1pOMHkwQWhGdUljaUE1MmF1X0Y2UXhPeENZNHFVMFZkVzYxdtIBqgFBVV95cUxNVlY3a3U1dks5NTNjai1xZHU2RHdsVGl5czNPbnowZ0V6SGdLS2VIZ2ZUdUtXc2FqWDN0aUJyTVVPbzRLYUptZWdTNndvSFBwaEpEZ3BsQXc1WVNQNlJsdDMzYlVyV01hN05NbU51YjRvM3QzQ0lFVzluVE1qQTdTY2t3NmFaNm01a1NaaEtkcVBpblNzcThsdlVXek1WQ1E3Yko5d2NfNDZ5UQ?oc=5",
-     "source": "A News",
-     "pubDate": "2026-11-10T09:41:04.000Z",
-     "lang": "en",
-     "score": -0.6043677771171636,
-     "matched": [
-      "war"
-     ],
-     "ageDays": 0.6703536111111111
+     "ageDays": 0.678851261574074
     }
    ]
   },
@@ -687,14 +698,14 @@
    "id": "emerging",
    "name": "新興国",
    "short": {
-    "score": 0.2034708961029431,
-    "confidence": 1,
-    "n": 10
-   },
-   "medium": {
-    "score": 0.11824744206368963,
+    "score": 0.27619577496500347,
     "confidence": 1,
     "n": 16
+   },
+   "medium": {
+    "score": 0.2285964387045233,
+    "confidence": 1,
+    "n": 23
    },
    "headlines": [
     {
@@ -707,7 +718,7 @@
      "matched": [
       "急落"
      ],
-     "ageDays": 3.5738721296296294
+     "ageDays": 4.615321168981482
     },
     {
      "title": "新興国ｅｙｅ＞前週のインド株、原油急落や外国人投資家の買い越しを受け続伸＝ＢＲＩＣｓ市況(ウエルスアドバイザー) - Yahoo!ファイナンス",
@@ -719,7 +730,7 @@
      "matched": [
       "急落"
      ],
-     "ageDays": 2.0699485185185185
+     "ageDays": 3.1113975578703705
     },
     {
      "title": "新興国ｅｙｅ＞前週のロシアＲＴＳ指数、米中間選挙に伴う原油急落など受け６週ぶり反落＝ＢＲＩＣｓ市況(ウエルスアドバイザー) - Yahoo!ファイナンス",
@@ -731,7 +742,19 @@
      "matched": [
       "急落"
      ],
-     "ageDays": 2.0707239814814815
+     "ageDays": 3.112173020833333
+    },
+    {
+     "title": "【新興国通貨】ドルインドネシアルピアは史上最高値（ルピア安）更新＝インドネシアルピア - - みんかぶ FX/為替",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QTjZLR0FXeUZfenhlVUtrS2pTaFdWTEN2cDJsOUxEeXhpbEZhaEcyRm52SUVzWUE1RWl4cThYbk1mNzRPM0tMTQ?oc=5",
+     "source": "みんかぶ FX/為替",
+     "pubDate": "2026-11-12T02:31:29.000Z",
+     "lang": "ja",
+     "score": 0.5370495669980353,
+     "matched": [
+      "最高値"
+     ],
+     "ageDays": 0.010124409722222222
     },
     {
      "title": "AI Slump Sends Investors Scouring Emerging Markets for Bargains - Bloomberg.com",
@@ -743,7 +766,7 @@
      "matched": [
       "slump"
      ],
-     "ageDays": 0.720330462962963
+     "ageDays": 1.7617795023148148
     },
     {
      "title": "Angola Bonds Top Emerging-Market Selloff as Oil Slumps to $90 - Bloomberg.com",
@@ -755,7 +778,7 @@
      "matched": [
       "selloff"
      ],
-     "ageDays": 0.4047401851851852
+     "ageDays": 1.4461892245370371
     },
     {
      "title": "Data Center Power Demand Is Set to Surge, Raising New Climate Challenges: BloombergNEF - BloombergNEF",
@@ -767,19 +790,19 @@
      "matched": [
       "surge"
      ],
-     "ageDays": 0.10632583333333333
+     "ageDays": 1.147774872685185
     },
     {
-     "title": "Oman exchange expects FTSE emerging market upgrade, trio of IPOs in 2027 | Gulf Times - Gulf Times",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzBLUm5yRWZoV1lsbXF0cXVXNkFBV0ZNZWJrQ0N3WmpZZy1wT3llVjVhV29GdGY5UnZITmpMWThCTk15MXhSSl9La1BOZFNLR21WcW5DMzFBNmNLR1NiQXItU2dPRi0ydl9CTUJpTnc3OFl0ck5Keldsd1NSbHAtbVNjR1BoeEpKa1RSQmVEZktjdmRFTjRpT0xwcWQ5MTVwNFc1ZnV6M29vSVk2c1Z6cTBnTVFjbXVLRmM3SHZ0b9IBxAFBVV95cUxNX21XVzhRYVotYzhycG5GUERsQzBuWThGUEJLNV9kTXRMY1hUVTlxX2xJY2xEVXJTTUdacTkzYUJ3SU5wOTFoSHlfaUVJZElNWGQySlowSk54cVhSeDVGc004aWhYcDdjTUJEWndpclg1VEFqZDduZW81MHlGM1RuRTFhNGZfVGFNYTlYQlhKNzl4WmRTdmctbGZUcFFzeVNXd1RLNU5tUGZrcElma25udVhwUGV0QU5fV204Q1NLUkJDSWRh?oc=5",
-     "source": "Gulf Times",
-     "pubDate": "2026-11-10T15:57:00.000Z",
+     "title": "Oman targets emerging market upgrade in 2027 with 3 major IPOs planned - Arabian Business",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XRnRtcW50enFMNEpZakFBSGZMV1V2MXhRTDBjS2U0NW5NVlhlQXhTdmJ6RTllbVdJTWRXRFVzSVJpNk10U3Y2YmV4TVBLVWdtSGltYkgyMGxIZlJESFhISmlCRlZ5ZUl0SUtYMm9NZ0xJVVlF?oc=5",
+     "source": "Arabian Business",
+     "pubDate": "2026-11-10T23:27:17.000Z",
      "lang": "en",
      "score": 0.5370495669980353,
      "matched": [
       "upgrade"
      ],
-     "ageDays": 0.4092887962962963
+     "ageDays": 1.1380410763888889
     },
     {
      "title": "Emerging Markets trusts rally after last Thursday’s AI crash - QuotedData",
@@ -791,7 +814,7 @@
      "matched": [
       "rally"
      ],
-     "ageDays": 1.4919161111111112
+     "ageDays": 2.533365150462963
     },
     {
      "title": "クレディセゾン、アジア開発銀行と提携 新興国で中小企業融資800億円 - 日本経済新聞",
@@ -803,19 +826,7 @@
      "matched": [
       "提携"
      ],
-     "ageDays": 3.3655387962962964
-    },
-    {
-     "title": "新興国ｅｙｅ＞前週の中国株、当局の新株価安定策を受け７週ぶり反発＝ＢＲＩＣｓ市況(ウエルスアドバイザー) - Yahoo!ファイナンス",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2hWUkoybWY0ZVQ2dFBKeHZEdGkxSWtQdHlrNWpzeHp6aWpNOFE0YmEtSkxkVUE1SzRWN1ZjNGxtR1hiTHdmVDdKeG1BWEtOV0tjTncyLUhKR0pvYnhUeWRmNTNBVTd1cjFwMmNxc2FSdXZBSXBVN016X3psRU5PVVo1bDVlNWs?oc=5",
-     "source": "Yahoo!ファイナンス",
-     "pubDate": "2026-11-09T00:09:21.000Z",
-     "lang": "ja",
-     "score": 0.3799489622552249,
-     "matched": [
-      "反発"
-     ],
-     "ageDays": 2.0673790740740743
+     "ageDays": 4.406987835648148
     }
    ]
   },
@@ -823,16 +834,29 @@
    "id": "monetary_policy",
    "name": "金融政策",
    "short": {
-    "score": -0.3018954187706231,
+    "score": -0.24269329288361252,
     "confidence": 1,
-    "n": 22
+    "n": 27
    },
    "medium": {
-    "score": -0.3052726125854253,
+    "score": -0.26658083801064114,
     "confidence": 1,
-    "n": 32
+    "n": 40
    },
    "headlines": [
+    {
+     "title": "Gold steadies after selloff as central-bank demand offsets Fed rate hike concerns - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0VlTkE2anBsRFY2WGxidEl0N0NXbDJaYktyWUFCVWkyRk1WeVd4UjU0WVEtd2JmYnp6OTdXMXU1Mk1GcGIxMGJubUtySW81UWcxVzd3VjBma2tVMUtlZmxJQkppdGx1amhoeE9BZFlBV3RYQWNtV0dfc0htX09fcGN5YjRLd0IxUTlfTWJlY1gxcXhwaDJzVXV3?oc=5",
+     "source": "Yahoo Finance",
+     "pubDate": "2026-11-11T01:27:00.000Z",
+     "lang": "en",
+     "score": -0.7615941559557649,
+     "matched": [
+      "rate hike",
+      "selloff"
+     ],
+     "ageDays": 1.054904502314815
+    },
     {
      "title": "円相場予測で首位のアナリスト、日銀の引き締めがFRBを上回りドル円は147円へ下落と予想 - BigGo ファイナンス",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IVWV2Unk3QmRELTg1M2FZeWZBblRVSjEyekhhTzZ3MmYxano4TDNCenhESWFnOU1nR2ZBTll0ZEd5N0xPTFJ6bFFDYThMMHlSRHV4MDl4Y1JvZXh3VFNPX00zYV9IOTlKYW1lYXhwSW9CT3RS?oc=5",
@@ -844,58 +868,57 @@
       "引き締め",
       "下落"
      ],
-     "ageDays": 1.1606776851851852
+     "ageDays": 2.202126724537037
     },
     {
-     "title": "高市“高圧政策”は潜在成長率を上げられるか、日銀「利上げシナリオ」狂わせるインフレ加速懸念 - ダイヤモンド・オンライン",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NUW9KWWxieGZxOEl6SDhIZ2RFclJ4VnRlLVhwc3o5Y3JDb1BlWV9uOFlYaC0zZk5USWw4bUl5cnBSRzFXSDNGME9pOXI?oc=5",
-     "source": "ダイヤモンド・オンライン",
-     "pubDate": "2026-11-04T19:10:00.000Z",
+     "title": "円相場159円台後半まで下落、米利上げ観測で約2カ月ぶり安値圏 節目160円が視野に - BigGo ファイナンス",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iV3YzR1NNT2x2ZXg3UFN3RGJJMGdSaHk4ME82UEE4VXVySThaaUFSYlVva1dIMlpiOWRCUVJhaUpSQm5XR0dRSHJrTXdzbVNxTVpBSU5ZZ2lDOGkxbkdPZ0VqUVVfd2xGV1JMR0h5ejBrbXUz?oc=5",
+     "source": "BigGo ファイナンス",
+     "pubDate": "2026-11-11T17:25:00.000Z",
      "lang": "ja",
      "score": -0.6640367702678491,
      "matched": [
       "利上げ",
-      "懸念"
+      "下落"
      ],
-     "ageDays": 6.275261018518519
+     "ageDays": 0.38962672453703706
     },
     {
-     "title": "物価情勢悪化なら0.5％利上げ検討、改善でも引き締め支持＝ウォラーＦＲＢ理事 - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb2tucllwVTlTdVg1SVpSaFlOM2o2Q1RWNEpvRDRpaUd0b3NwNzhrdkpDR0hzVDNzV3NPeFVSWGpTNXFUUllnUDhFenJKWUZPdHlXWkhKYUowSEVBR1FhMnNKZzVIZjlpb3p6cFZRSU1WVUdUQ1F1WEotRV9yYnZkQzF4NzVrdw?oc=5",
-     "source": "Reuters",
-     "pubDate": "2026-11-10T17:35:08.000Z",
+     "title": "ドル円160円目前、米利上げ観測と介入警戒が交錯 東京市場は神経質な展開か - BigGo ファイナンス",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wMFNLVXVxNEdscEphbkxNNjQ1NEJkWm9nUTFqWFZLY0hEMWhSandQUVZabG8yeDhhd1lSTHVCWmhraHRVY25jVTFOTHljT2xfS1dLWVQ4V0RrUC1yUGVfcXhSc2h2MHFLdS15RlFYSkZucnVf?oc=5",
+     "source": "BigGo ファイナンス",
+     "pubDate": "2026-11-11T23:25:00.000Z",
      "lang": "ja",
-     "score": -0.6640367702678491,
+     "score": -0.6043677771171636,
      "matched": [
-      "引き締め",
-      "利上げ"
+      "利上げ",
+      "警戒"
      ],
-     "ageDays": 0.34114064814814815
-    },
-    {
-     "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXV1UVBxYzdRTDU1Z01Ybk1pNS1aNU1JaDdtTUJVTDdFNW43MlF5dFNacEVfX2xxeE40cnNhWXpaX09Jb0F0ZHpjQWdGUER5MFZ2eFU4UXBJbXhQMS0tazVDUEhLd1RMV3Z6d0RKRWFJNmhNNnloOEt4NTlUVzgxZjEzODNVNHRaeFpDLXJmRFE2NHhGaWxUWVBjTQ?oc=5",
-     "source": "Yahoo Finance",
-     "pubDate": "2026-11-10T16:27:57.000Z",
-     "lang": "en",
-     "score": -0.6640367702678491,
-     "matched": [
-      "rate hike",
-      "fears"
-     ],
-     "ageDays": 0.38779574074074075
+     "ageDays": 0.13962672453703703
     },
     {
      "title": "Trump’s Fed nightmare: Rates won’t be slashed. They could surge now - SMH.com.au",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQlBlZVhQSnJvYWVKNEpjYjhHa1IxdWpTQWswdGxfS3BPYWMwVWtHUEFhbDU4VGdndzlUVG1kdHR3YTl6TFNhcUhHeTZyOXZGR0tUSTdGakZsVVVSZ29WQ3lLS2V5ZHdsOWh0cG5VWlZnNEdSY1Fmb2VRT0gtWG0xdVFRVEJGdWlMc0U2T1puMkF3SlNoZlhFVlZqVzVacFR0VmxSUnlRUlR0X01CXzhzTmwxSkp1TlRYbHVlT0tpaDVpNTJQSWRKLUVR?oc=5",
      "source": "SMH.com.au",
-     "pubDate": "2026-11-11T00:59:36.000Z",
+     "pubDate": "2026-11-11T04:34:08.000Z",
      "lang": "en",
      "score": 0.5370495669980353,
      "matched": [
       "surge"
      ],
-     "ageDays": 0.03248324074074074
+     "ageDays": 0.9249507986111111
+    },
+    {
+     "title": "米中間選挙後の金利 原油価格の低下は日銀の利上げ姿勢に大きく影響しないとみる 野村證券・宍戸知暁 - 野村證券",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nakFxbFAyVGk5QVFVRHNodkJENWJIMHN4UF9kR0g4SmFjc2dWY3ZmTjNVeFdzN3BGblYwVzFRM0NxQXRPWVg2ZXRWdG9Zc2c2ckpyZFUya3FkbjI2aUpR?oc=5",
+     "source": "野村證券",
+     "pubDate": "2026-11-09T06:00:00.000Z",
+     "lang": "ja",
+     "score": -0.3799489622552249,
+     "matched": [
+      "利上げ"
+     ],
+     "ageDays": 2.8653211689814815
     },
     {
      "title": "日銀「2％到達」宣言は単なる通過儀礼、3～4カ月に一度のペースで利上げは続く | 日銀 早耳深掘 - ダイヤモンド・オンライン",
@@ -907,55 +930,43 @@
      "matched": [
       "利上げ"
      ],
-     "ageDays": 1.2703999074074075
+     "ageDays": 2.3118489467592593
     },
     {
-     "title": "速いペースでの利上げ継続意識した意見が複数＝9月日銀会合要旨 - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHVKZ0hscFVQdHZ2Rjl6WWk2LW9ScTg0Z1pHNjZ5NmY1c0NXZk4tcXo0X0NUc3pTX28taUZGaW80NVpuVHFlcm9GNTZiekxXQ1dtaVFqU3haV3NtUERFQkJMRC10VExSbk5veU5EMnVSVi0ycGwtdkZ4bTJrNUJmNzd4YlhZR0M5Snl5OTlZbVU?oc=5",
-     "source": "Reuters",
-     "pubDate": "2026-11-05T00:42:00.000Z",
+     "title": "米12月FOMC「利上げ100%織り込み」の衝撃――0.50%大幅利上げ観測とドル円159円台攻防 2026年11月11日 - 外為どっとコム",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLaUFBanRtR1F5QWppXzA4ZThPSURSSHMzZEtFQ3R0NlVMVDljblIyMERmNy1JQkJMekRSOWZDUDhYQnJVaDU4YXl4YnVmQ21Zb25oVDV2MlluM3lKWVhpYlNUdw?oc=5",
+     "source": "外為どっとコム",
+     "pubDate": "2026-11-11T00:54:25.000Z",
      "lang": "ja",
      "score": -0.3799489622552249,
      "matched": [
       "利上げ"
      ],
-     "ageDays": 6.044705462962963
+     "ageDays": 1.0775318171296295
     },
     {
-     "title": "【\"AI特需\"が支える脆い雇用】エコノミスト末廣徹／堅調な求人の正体は\"引退の穴埋め\"／実質賃金は0.6%増で「強くない」／12月の日銀 利上げもステイも“FRB次第”【The Priority】 - TBS NEWS DIG",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlMmI3R2EzaFBrZm1MU1locEVnMHBYQTRQRHNIZ09leV81bk1rYkhaX01xYTNKd0xyR252aXk4QkFmeFo2VGhYWFNhMFRvSFM5TlBYcWxPVk1Jb3FYU1hhSHBKQkdDOWI4RWlDQkd6dFZKZlA5?oc=5",
-     "source": "TBS NEWS DIG",
-     "pubDate": "2026-11-09T10:53:00.000Z",
+     "title": "日銀政策金利「到達点」予想、2%ちょうど付近に低下 AI懸念揺さぶる - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rLU1rZm1XTXJWSExBS19kZ3NVcEZwVnhYQVpST3FxYjJYcWNCX1dwZ1ZtRElUdExhaWNKX1R3M0tySHZqYTNIeVlnWXdyQlVKeVBQajNoZmdTVHp5TDB2aWQwcXBDcVk4dEoxNg?oc=5",
+     "source": "日本経済新聞",
+     "pubDate": "2026-11-09T19:30:00.000Z",
+     "lang": "ja",
+     "score": -0.3799489622552249,
+     "matched": [
+      "懸念"
+     ],
+     "ageDays": 2.3028211689814815
+    },
+    {
+     "title": "FRBの連続利上げ観測が浮上：日本銀行は追随しないか（NRI研究員の時事解説） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BdWlONkUxaW5Zb1VzY1I1QWdYcWhha21OdmVIeXV0UEVJOUtUNU9EMk9MRVBRQ1hlcWZxMlI1a0RYZV9XN00wUzZRM0ZEaGdqaGwzMGRGdjhUNEZmc1NVYkVVWVBvbGlRcmVMbkk5cGRudzlHR1FUaEhDTHU0aDQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "pubDate": "2026-11-11T04:05:49.000Z",
      "lang": "ja",
      "score": -0.3799489622552249,
      "matched": [
       "利上げ"
      ],
-     "ageDays": 1.6203999074074074
-    },
-    {
-     "title": "日銀「主な意見」10月会合を読む｜12月利上げに前向きな意見と慎重論、焦点は中立金利と賃金(2026年11月10日) - OANDA証券",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yOV9ZaWlLOHpqVUJ5NTl2VDZ2a3JyQmFqa29NNENKM0tEemJzUkRVTjdyTzdpVUNMZnlsLTgxcFFheVpZMVZIN3BVamN4MzA0aDJjbFRQV0JLOGhfOVM4TnlkQ1h4OGVfM2V0UXQzdXdwbTJPQUpENjhtb3FSdw?oc=5",
-     "source": "OANDA証券",
-     "pubDate": "2026-11-10T01:02:04.000Z",
-     "lang": "ja",
-     "score": -0.3799489622552249,
-     "matched": [
-      "利上げ"
-     ],
-     "ageDays": 1.0307702777777779
-    },
-    {
-     "title": "ドル円158円攻防、15兆円介入と日銀利上げ観測が上値を抑える - BigGo ファイナンス",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WZXo4S0prSGdpckI1bm9MaDhiV0JtUTZQRUJJeDlLeWhINGxvNkhVa0tUaWxoakd0dlFpdGx4ejlhVWpadjRkMVpHR1lSLTcyeERkUFRIZGNZdHJjNkp4RTc5eHpNc21iRng3NG1hWElnR0lU?oc=5",
-     "source": "BigGo ファイナンス",
-     "pubDate": "2026-11-09T11:05:00.000Z",
-     "lang": "ja",
-     "score": -0.3799489622552249,
-     "matched": [
-      "利上げ"
-     ],
-     "ageDays": 1.612066574074074
+     "ageDays": 0.944615150462963
     }
    ]
   },
@@ -963,14 +974,14 @@
    "id": "fx",
    "name": "為替",
    "short": {
-    "score": -0.031484983054302876,
+    "score": -0.011499137042430024,
     "confidence": 1,
-    "n": 39
+    "n": 59
    },
    "medium": {
-    "score": -0.04087001501659969,
+    "score": -0.02531139246931333,
     "confidence": 1,
-    "n": 46
+    "n": 68
    },
    "headlines": [
     {
@@ -984,20 +995,7 @@
       "利上げ",
       "急落"
      ],
-     "ageDays": 1.1592887962962963
-    },
-    {
-     "title": "Dollar-Yen May Test 160 Next Week as U.S. CPI Battles AI Stock Slump; BOJ December Rate Hike Bets Also in Focus - BigGo Finance",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtWGtqLXJUZXFVSzg3SGFDMkVndU1MOHVwUEJYVER4dGNwWkZxRUU5OFFCQTAzSUVGLTBESzU2bTJ5RWpId0tMdXUzTThVbnNtZElQSG9rT19HOE9KSlVZYkFlUTAwdEU0MHMxTVUxcjlHRl9ibnc?oc=5",
-     "source": "BigGo Finance",
-     "pubDate": "2026-11-07T22:25:00.000Z",
-     "lang": "en",
-     "score": -0.7615941559557649,
-     "matched": [
-      "rate hike",
-      "slump"
-     ],
-     "ageDays": 3.1398443518518517
+     "ageDays": 2.200737835648148
     },
     {
      "title": "円相場 小幅な値動き 原油先物下落で一時円高ドル安も - NHKニュース",
@@ -1010,32 +1008,46 @@
       "下落",
       "円高"
      ],
-     "ageDays": 5.55387212962963
+     "ageDays": 6.5953211689814815
     },
     {
-     "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し「米中間選挙通過で株高も、原油急落と米金利低下が上値を抑制――米単位労働コストを控えレンジ推移か」 2026年11月5日 - 外為どっとコム",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iSmhVdVVOaVdGVDFTcU8yRldqNHI0Y1FBT3RRZ3hPbUNGcERmVVBkN0ZsSVRRVEcyNWY0bmFfZmY5SXF6TkpIbFphV0txY2VZTFJqMmliR2dWVUw4OXZHWUVYcw?oc=5",
-     "source": "外為どっとコム",
-     "pubDate": "2026-11-04T21:57:00.000Z",
+     "title": "円相場、一時1カ月半ぶり安値 158円台後半まで下落 米利上げ観測が重し - BigGo ファイナンス",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IT1EyMTZNb0FtekV2SEpmc2NTdzRNSjByQ3lUQkRxTmt5YkxKNGhablZoSkhoTjNoVWhLaHlRdHJJaXBZRzRMT0N6X0VDSnk2M3BBeTJBUnNfaEk5V2xJV1lyUnJtS3ZqaEJPRy1UMzlvX2k1?oc=5",
+     "source": "BigGo ファイナンス",
+     "pubDate": "2026-11-11T09:39:53.000Z",
      "lang": "ja",
      "score": -0.6640367702678491,
      "matched": [
-      "急落"
+      "利上げ",
+      "下落"
      ],
-     "ageDays": 6.1592887962962966
+     "ageDays": 0.7126244097222222
     },
     {
-     "title": "円相場で強弱勢力が激突！トップアナリストは147円への円高を予想、「キャリートレード」の縮小が株式・債券市場の変動拡大を招くことに警戒 - Moomoo",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjB5WjJQWVRGNnNzVTZrcHJXNlVkLXZBdWdxWl9iUkIwdVZnOFJRNUhHa3A2aWZDamJXMDY5aFNTYWFZS2tVS01QX193LWo0bVRzbnBDQkc1SFA5dGVCTC1oUC1CWFNTcVlyN1NLSFd6WXFzalJ3TmZsVjMyRThOdGJaZFYxMjF5SnFWUzFWUzVQSlF4ajhoZlFKSWk3VGxlZDU3TVZRdTlvZmM4bmc?oc=5",
-     "source": "Moomoo",
-     "pubDate": "2026-11-09T23:42:55.000Z",
+     "title": "円相場159円台後半まで下落、米利上げ観測で約2カ月ぶり安値圏 節目160円が視野に - BigGo ファイナンス",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iV3YzR1NNT2x2ZXg3UFN3RGJJMGdSaHk4ME82UEE4VXVySThaaUFSYlVva1dIMlpiOWRCUVJhaUpSQm5XR0dRSHJrTXdzbVNxTVpBSU5ZZ2lDOGkxbkdPZ0VqUVVfd2xGV1JMR0h5ejBrbXUz?oc=5",
+     "source": "BigGo ファイナンス",
+     "pubDate": "2026-11-11T17:25:00.000Z",
      "lang": "ja",
      "score": -0.6640367702678491,
      "matched": [
-      "警戒",
-      "円高"
+      "利上げ",
+      "下落"
      ],
-     "ageDays": 1.0857355555555555
+     "ageDays": 0.38962672453703706
+    },
+    {
+     "title": "円159円台後半に下落、2カ月ぶり安値 米利上げ観測でドル買い強まる - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yWTExaXR3RlpURThTNHd5YU53elhabGM2Q0V4ZE83WEVEMms5QklTbHR4ZVB4cFV1TVN4MUZBUElzc0piZ2hab2h2bHRYWF84X1VEbFZmcUwtZFlqd2w3SE9VazlmeVYzbmlYNg?oc=5",
+     "source": "日本経済新聞",
+     "pubDate": "2026-11-11T10:25:02.000Z",
+     "lang": "ja",
+     "score": -0.6640367702678491,
+     "matched": [
+      "利上げ",
+      "下落"
+     ],
+     "ageDays": 0.6812702430555555
     },
     {
      "title": "Dollar-Yen Retreats to 157 Level as Oil Plunges on Hopes for U.S.-Iran Talks Progress, Dollar Selling Dominates - BigGo Finance",
@@ -1047,33 +1059,47 @@
      "matched": [
       "plunges"
      ],
-     "ageDays": 1.139844351851852
+     "ageDays": 2.181293391203704
     },
     {
-     "title": "巨額の円買い越しでも円高にならないのはなぜか？貿易赤字の拡大とフランス危機が示す円安再開リスク 【唐鎌大輔の為替から見る日本】日米金利差だけでは説明できない円相場、投機筋の思惑を打ち消す「実需の円売り」(1/4) - JBpress",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12LXc1cHdmNXl1ZlFCODBKWnVxSFdlVERqeGpYYmY2dlM4amJvSlZMMkxudmZfaG5CTTRTT3JwOG5mRmdhMTh4WkYxY1lOUk84WnJYb2xR?oc=5",
-     "source": "JBpress",
-     "pubDate": "2026-11-09T21:00:00.000Z",
+     "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し「米利上げ観測で160円目前へ急伸、本邦介入への警戒強まる」 2026年11月12日 - 外為どっとコム",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YcFBVSHB6ZEV4d2dUd2NuWlozZm5qWmNDYnA2NElpUElCOVE4SDZIUFA3VEYteU9mdU0xSElNLWI2QVBlU3N0UjRMSE9CME12OWQzVnd0WGtHX28tRzd3dnhyQQ?oc=5",
+     "source": "外為どっとコム",
+     "pubDate": "2026-11-11T21:59:00.000Z",
      "lang": "ja",
-     "score": -0.5370495669980353,
+     "score": -0.6043677771171636,
      "matched": [
-      "赤字",
-      "円安",
-      "円高"
+      "利上げ",
+      "警戒"
      ],
-     "ageDays": 1.1988721296296296
+     "ageDays": 0.19934894675925927
     },
     {
-     "title": "高水準続くデジタル赤字、海外サービス依存が鮮明 消えない円売り圧力 - 日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tenVqSERxNXphTjdzeHJRQ3FZS1ZEUjhwaE5CYzBaRnNpQVc4SjktZ0hPcGJXWE5UX2NmdWNvRzl5SGE3czZNZmIwakhPbFpVcGxhX0NlbUo3bGM2cFBzR3U3STlFMWZfUk5zMw?oc=5",
-     "source": "日本経済新聞",
-     "pubDate": "2026-11-10T19:30:00.000Z",
+     "title": "円相場 一時1ドル＝159円台まで下落 約1か月半ぶり円安水準 米CPI予想上回りインフレ懸念再燃 FRBの次回利上げ観測強まる（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tMjVhUzBoVlo4UE9QdkdHSV9XckpFUUJkSVpNSFFIVk9QMXdjTGNDclJmUlRhNUVjSmM1RktkdXJlWHF1S05GX3RIa0pHc1hqTmoyaXp0cExCcWFoV3plRmdrdGU0dmNfOTF1Qm92ZVoyUUI5eWhVYWhZSmhsVWc?oc=5",
+     "source": "Yahoo!ニュース",
+     "pubDate": "2026-11-11T10:59:21.000Z",
      "lang": "ja",
+     "score": -0.6043677771171636,
+     "matched": [
+      "利上げ",
+      "下落",
+      "懸念",
+      "円安"
+     ],
+     "ageDays": 0.6574392245370371
+    },
+    {
+     "title": "Japanese Yen tumbles to ten-week low as USD/JPY breaks above 159.00 - FXStreet",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0x2b3RSN2NzeVlWY1BDWXMwUVdBb2F1M2MtWlpNajVBeVlnZ1RtdUxtd09XR3JSMFBFMnEzdzN2SS1YNVBhNC1fWkw1U1J2NWNPZVZJVno3aFI3UnJuZklxbXlrLTJ4elBQRTB1VDdMaEhHOGZMckItODBSUEo1cC1iM1V2c3VZQzVwWWRRWkhjQUc3WVZUWkYwWFZSeEs5OUwwVkgzYWFNTElYWGc?oc=5",
+     "source": "FXStreet",
+     "pubDate": "2026-11-11T14:57:19.000Z",
+     "lang": "en",
      "score": -0.5370495669980353,
      "matched": [
-      "赤字"
+      "tumbles"
      ],
-     "ageDays": 0.26137212962962963
+     "ageDays": 0.4921845949074074
     },
     {
      "title": "Japanese Yen falls as US CPI beats forecasts, Fed officials back further hikes - FXStreet",
@@ -1085,19 +1111,7 @@
      "matched": [
       "beats"
      ],
-     "ageDays": 0.35622166666666666
-    },
-    {
-     "title": "2026年下期の為替相場、ウォーシュFRBと高市政権の政策姿勢が焦点 原油安なら円安圧力弱まるか 野村證券・後藤祐二朗 - 野村證券",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lUmxFR3dEWmpRbzdFMGFZREJsRC1rNF9aUFhSTTR1WTlxcmU0YUpWYXIxNE5sdkdOeUZCZzdtb1IwZFFJMFVkcHk2V3l5LWRuZ0tYSXBlNkh0WkFRT0NF?oc=5",
-     "source": "野村證券",
-     "pubDate": "2026-11-06T08:00:00.000Z",
-     "lang": "ja",
-     "score": 0.46211715726000974,
-     "matched": [
-      "円安"
-     ],
-     "ageDays": 4.740538796296296
+     "ageDays": 1.3976707060185185
     }
    ]
   },
@@ -1105,16 +1119,42 @@
    "id": "commodities",
    "name": "資源",
    "short": {
-    "score": -0.11217057113681267,
+    "score": -0.01632781823975311,
     "confidence": 1,
-    "n": 81
+    "n": 53
    },
    "medium": {
-    "score": -0.11429598908515079,
+    "score": -0.019765614491506975,
     "confidence": 1,
-    "n": 104
+    "n": 92
    },
    "headlines": [
+    {
+     "title": "石油元売り3社、中間最高益 通期予想、2社上方修正（時事通信） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PbndPWjdvYU5XTmxOMWNnb2o4cUViekZQT05IYUVPbzhUb200eFZpUXkxbXQxSVNDNG9fU2hDLVJZN3U2RGxhNTVPM2YyX2d6cjNibGc5QzBfcnNqeHJxbUpSSE52akxuT1lzNVBkNDlOaUNCZS12aW1lRHZuYk0?oc=5",
+     "source": "Yahoo!ニュース",
+     "pubDate": "2026-11-11T10:51:59.000Z",
+     "lang": "ja",
+     "score": 0.9562374581277391,
+     "matched": [
+      "上方修正",
+      "最高益"
+     ],
+     "ageDays": 0.6625549652777778
+    },
+    {
+     "title": "出光興産は今期上方修正、海外事業好調や原油価格見通し変更で - 株探",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YcnFKSWFvN0tyaWZlM0l3OUlWbDBOSkZHS0ZmR0JjcUI4a1dCODBpVG5mMDEwcWZ4bzJwOFo2c2x5SWd6dWE4aFNXYmN5ZUUyUGxTTGtWcUhRODdWR0pOcQ?oc=5",
+     "source": "株探",
+     "pubDate": "2026-11-11T07:10:00.000Z",
+     "lang": "ja",
+     "score": 0.9051482536448664,
+     "matched": [
+      "上方修正",
+      "好調"
+     ],
+     "ageDays": 0.8167100578703703
+    },
     {
      "title": "イラン紛争による原油価格の急落を受け、世界の二酸化炭素排出量は増加の一途をたどっている。 - Vietnam.vn",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbnI2Y3ZyTGR4WHFjVXc4czgyeHU1bTlOa1NpTGxIbm1WYzNKSmRhUWFOODdXUTBSVkRCb0RGTTY4YXVyV2hrbFNqanRXcUpWQWM4X1ZET0pZOWVOLTlmZnRYLVEtNXJBSUVPXzRPNy1WSkFlTnJ2cnNvMHVyZFcwci1pV3UzWVNobjkxYWVnb0tPYzlkYVYwVVJRZmtSWVE?oc=5",
@@ -1126,46 +1166,20 @@
       "急落",
       "紛争"
      ],
-     "ageDays": 0.8618350925925926
+     "ageDays": 1.9032841319444445
     },
     {
-     "title": "イランへの攻撃の可能性が低下したことで、世界の原油価格は急落した。 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNajUzUnRxTFRUQ281NlZQdjBEanJESXNlNEl1cTVockx6NC1RTzNLVUx0aDJidi1xdnhCYkdIZ0xXMFM3TE1tUFgtRFBISE1ycGNqUTJUX3psSTN0b2RCcFhuYTE3TFJZUzFDOWhULXZ3ZUpDTTB2bmdvWWhsRUI1a3RHZlRPUU14dVNONA?oc=5",
-     "source": "Vietnam.vn",
-     "pubDate": "2026-11-10T02:08:51.000Z",
-     "lang": "ja",
-     "score": -0.9051482536448664,
-     "matched": [
-      "急落",
-      "攻撃"
-     ],
-     "ageDays": 0.984392962962963
-    },
-    {
-     "title": "Oil prices plunge after Vance post on Iran war - Axios",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVFrN1Z2RXhoZjZ0RFROeTFYTlk2VncxYjZJTUk4TlpmbWF1V2NBbEpxb3BjZFZ6dmNOZUNXM3NxSkFzWHRtXzNhc2twMXo3dWlnWUpnYnFMeU51ZGNRWFozOU1BMExoOFJTVXVhNHhwRjM4U21oNm5Ed2VZWjdCVDB6RXR2ZWM?oc=5",
-     "source": "Axios",
-     "pubDate": "2026-11-04T19:46:35.000Z",
+     "title": "Heating costs will surge this winter due to Iran war — with heating oil prices spiking as much as 70% - New York Post",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTVLOENoUV9XeG9heHRpbmM1ZXBkOVJXUjlvZVZhWFhTVEhlYXFQR0puWGxmT3NUNUw2VDRSZXdOVFVwUkNZUEM5NHRoMG9OeHRnZ2hqb2ZpOHRWazhYSVkzWkpWOG45MXA5VlFLYlV1ODBYXzM3UGpIM2Z1QVVaU1lfZ3ZCYzV1YXZsNGd0RnZFeUxzcnRMNl9Hc3ZLV2VzT1RZ?oc=5",
+     "source": "New York Post",
+     "pubDate": "2026-11-11T19:50:00.000Z",
      "lang": "en",
-     "score": -0.9051482536448664,
+     "score": -0.8004990217606297,
      "matched": [
-      "plunge",
+      "surge",
       "war"
      ],
-     "ageDays": 6.249855925925926
-    },
-    {
-     "title": "Oil prices slide as hopes for end to Iran war spark selloff (CL1:COM:Commodity) - Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSW9iRS10UDBudHRkblJDNDNaSFlSMlpib3o1WTlmWVh5S1JDeXBCQUp4NXFyaDdVQ3BDeXJzYkNHVnpjZzdCd2V6bnJNQUhUWlpIVjlPeHRFejRMRjRzdTdRVmQxajV1djZBRWVnenMzWjNiNUR5cWJodDIwdENRNnZ6Tzh0aW1ReUV6UExyRjdYbXVpdFNkTk9KZ0FOZw?oc=5",
-     "source": "Seeking Alpha",
-     "pubDate": "2026-11-10T22:21:00.000Z",
-     "lang": "en",
-     "score": -0.8617231593133063,
-     "matched": [
-      "selloff",
-      "war"
-     ],
-     "ageDays": 0.14262212962962964
+     "ageDays": 0.2889322800925926
     },
     {
      "title": "米EIAが原油価格予測を上方修正：ブレント原油は今年残り期間100ドル台を維持、来年平均は86ドル見通し - BigGo ファイナンス",
@@ -1177,7 +1191,20 @@
      "matched": [
       "上方修正"
      ],
-     "ageDays": 0.27873324074074074
+     "ageDays": 1.3201822800925926
+    },
+    {
+     "title": "ホルムズ海峡への攻撃で中東和平への期待が後退、原油価格が上昇 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54LURkWHUxZGtwVFEydDhVX0E0UjZKQ2V1T3REZ3ZUZ2hYNkdUellUNTJTYnJ4bDhsWmpuNG42Q01ZY1B5QWpWY3RYc1BHTUhFbkJzU0FQZnA4aDBLYVZHUFhqem5UczVuZERuN0J3NA?oc=5",
+     "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+     "pubDate": "2026-11-11T02:15:00.000Z",
+     "lang": "ja",
+     "score": -0.7615941559557649,
+     "matched": [
+      "上昇",
+      "攻撃"
+     ],
+     "ageDays": 1.0215711689814815
     },
     {
      "title": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck - Yahoo Finance",
@@ -1190,55 +1217,43 @@
       "oil prices fall",
       "rally"
      ],
-     "ageDays": 1.4335017592592592
+     "ageDays": 2.4749507986111112
     },
     {
-     "title": "米民主党の圧勝で国際原油価格が8％以上急落（中央日報日本語版） - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xaVo2Wm50cnhPdmNFSGpHSmpFX1FEZF9XSW9rb05FNFZVQy1BajNsNVZNTjBNcWcwRzNGNXN6bzljdm4xLTBxU29kOVltc0JBSTdGTzhoVjA3OGNuTzcwMXlSeUF2QnMxRlk5OWlFdmhxaWM2aEQ5TzI2dU13NFk?oc=5",
-     "source": "Yahoo!ニュース",
-     "pubDate": "2026-11-04T21:59:00.000Z",
+     "title": "石油元売り、そろって最高益 それでも「脱・中東」投資に慎重な理由 [＊令和のオイルショック] - 朝日新聞",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mRjN2dDFFWGRQQkkzZ3N3OEcxX1ItM2h2VkRDTEsxVF9LNDBlZjMyblpCS0ItZE9ZWnpPb2dQTG9LVnViU3BVeTNiNGNQOGo3T01iSnhNbi1sZ2pETnZKU0JSNGhZTjA?oc=5",
+     "source": "朝日新聞",
+     "pubDate": "2026-11-11T22:00:00.000Z",
      "lang": "ja",
-     "score": -0.6640367702678491,
+     "score": 0.7162978701990245,
      "matched": [
-      "急落"
+      "最高益"
      ],
-     "ageDays": 6.1578999074074074
+     "ageDays": 0.19865450231481482
     },
     {
-     "title": "〔決算〕コスモエネHD、9月中間は増収増益＝原油価格高止まりで(時事通信) - Yahoo!ファイナンス",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzFXVmJZTTdxRXNlVk9TVmdqd1JobEpUNDBnOF9KU2lRcDlUU2xkdHhyZ295dFh1RFg0SExLQ2U0dXZLYTE5R19xMHFwYW1TZHh5aHQ4cXdveEplb0ZHTlVNaTdiNTZ0SFZDTkJnTmp4S0lMaHdXRzZXODM2UGdESGZJZ3czbW8?oc=5",
+     "title": "〔決算〕石油元売り、3社とも最高益＝原油価格高止まりで―9月中間☆差替(時事通信) - Yahoo!ファイナンス",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1FXb3dVYUFKaXhTbThtQWJwRFMxNW5qZ21heEswU2tHamZQRFVHVEtYQ0JYbHBUMGR3UlE5Q0owNWc2ejRmQUF6WDFzS3ZMdEQ4c0xmT2tzaXJoOV9QUnVVYzFMRDF5am5aT25yRFkyVmJBaDJnMXNZSWVRaGQzT3dTME1makU?oc=5",
      "source": "Yahoo!ファイナンス",
-     "pubDate": "2026-11-10T12:38:04.000Z",
+     "pubDate": "2026-11-11T12:51:09.000Z",
      "lang": "ja",
-     "score": 0.6640367702678491,
+     "score": 0.7162978701990245,
      "matched": [
-      "増益"
+      "最高益"
      ],
-     "ageDays": 0.5474369444444445
+     "ageDays": 0.5798003356481481
     },
     {
-     "title": "国際原油価格急落で米ガソリン価格が4カ月ぶりに1ガロン3ドル台に復帰 - BigGo ファイナンス",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNTdRcEpoZURIWnVsMEItaURNMkxmSl92SVZMVWpZM3FEa09MbWh1WHBuVFVwS0o1bkw3Y1lmbGRHdEdQcU9kQjV2alVRLWpNd25XWDN6a1YwVlFxaHFoSmkzWnI4ZzNveUMwb09jSmZwQ043?oc=5",
+     "title": "石油元売り3社が中間最高益、ENEOSは純利益5119億円と前年同期の7.9倍 - BigGo ファイナンス",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YNnF1V0RIMFVFZ2JCYzVqbFZVcDRUeUNMMDlNNk8xSlVsSVhSd2gyZVphLWlpRWNZV2h1UmtiNy1YUHZxTFZMdmZBRWVSTGMxbEVLR3VzZkhtTklJVEpnZFJOX0FWNlYyN2lwVF9WU0RXQklJ?oc=5",
      "source": "BigGo ファイナンス",
-     "pubDate": "2026-11-10T19:35:00.000Z",
+     "pubDate": "2026-11-11T11:05:00.000Z",
      "lang": "ja",
-     "score": -0.6640367702678491,
+     "score": 0.7162978701990245,
      "matched": [
-      "急落"
+      "最高益"
      ],
-     "ageDays": 0.2578999074074074
-    },
-    {
-     "title": "米・イラン協議に曙光、原油価格が週間17%急落 コロナ禍以降で最悪の記録 - BigGo ファイナンス",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdzlZdDE4NmJZWHhPc3ZlbndYcjB2cVZpZ3J5d19TMUNRaGpxUmVsUTd4ek03dnBDWkZrVVBuT2tMVFpyN0REWjBfVGpDazdsUkZVUHlaZEVJTHJHTHRYOVBmZmpzUHN4OVg4RXlYS3cyUExG?oc=5",
-     "source": "BigGo ファイナンス",
-     "pubDate": "2026-11-08T05:55:00.000Z",
-     "lang": "ja",
-     "score": -0.6640367702678491,
-     "matched": [
-      "急落"
-     ],
-     "ageDays": 2.8273443518518517
+     "ageDays": 0.6535156134259259
     }
    ]
   }
@@ -1247,29 +1262,29 @@
   {
    "symbol": "JPY=X",
    "name": "ドル円",
-   "last": 158.91099548339844,
-   "changePct": 0.5874010269304009,
+   "last": 159.76800537109375,
+   "changePct": 0.669798385542153,
    "stale": false
   },
   {
    "symbol": "CL=F",
    "name": "WTI原油",
-   "last": 86.20999908447266,
-   "changePct": -0.7369020159961659,
+   "last": 85.8499984741211,
+   "changePct": -0.22083035725766198,
    "stale": false
   },
   {
    "symbol": "^TNX",
    "name": "米国10年債利回り",
-   "last": 4.9830002784729,
-   "changePct": 2.4465550719976026,
+   "last": 4.998000144958496,
+   "changePct": 0.3010303816955773,
    "stale": false
   },
   {
    "symbol": "^VIX",
    "name": "VIX",
-   "last": 19.459999084472656,
-   "changePct": -2.3092419179692625,
+   "last": 17.489999771118164,
+   "changePct": -10.123326855273984,
    "stale": false
   }
  ],
@@ -1280,12 +1295,11 @@
    "market": "JP",
    "kind": "index",
    "stale": false,
-   "asOf": "2026-11-11",
-   "last": 60985.078125,
-   "changePct": 0.86917576386909,
+   "asOf": "2026-11-12",
+   "last": 61714.16015625,
+   "changePct": 0.7601322964132073,
    "history": {
     "dates": [
-     "2025-10-16",
      "2025-10-17",
      "2025-10-20",
      "2025-10-21",
@@ -1544,10 +1558,10 @@
      "2026-11-06",
      "2026-11-09",
      "2026-11-10",
-     "2026-11-11"
+     "2026-11-11",
+     "2026-11-12"
     ],
     "closes": [
-     48277.73828125,
      47582.1484375,
      49185.5,
      49316.05859375,
@@ -1806,152 +1820,153 @@
      57434.76953125,
      58775.5,
      60459.578125,
-     60985.078125
+     61248.58984375,
+     61714.16015625
     ]
    },
    "features": {
-    "last": 60985.078125,
-    "sma5": 59746.56484375,
-    "sma25": 64185.76921875,
-    "sma50": 64932.469453125,
-    "sma75": 65165.857447916664,
-    "sma200": 62055.24060546875,
-    "rsi14": 41.88682105999531,
+    "last": 61714.16015625,
+    "sma5": 59926.51953125,
+    "sma25": 63837.51703125,
+    "sma50": 64849.383359375,
+    "sma75": 65110.68505208333,
+    "sma200": 62095.44810546875,
+    "rsi14": 44.69411625135452,
     "macd": {
-     "macd": -1609.3302062871444,
-     "signal": -1287.8177806408994,
-     "hist": -321.512425646245
+     "macd": -1462.3694362016977,
+     "signal": -1319.3647717857796,
+     "hist": -143.0046644159181
     },
     "bb": {
-     "mid": 62903.6994140625,
-     "upper": 67496.91823220353,
-     "lower": 58310.48059592147,
-     "percentB": 0.29114632189034184
+     "mid": 62615.3685546875,
+     "upper": 66636.99950263584,
+     "lower": 58593.73760673917,
+     "percentB": 0.3879548608385784
     },
-    "slope60": -0.0012387361396472658,
-    "vol20": 0.02288888517912641
+    "slope60": -0.0012433041143150548,
+    "vol20": 0.023201023431445405
    },
    "techScores": {
-    "maShort": -0.9070838621192255,
-    "maLong": 0.3843352924642413,
-    "ma75": -0.7325972756295019,
-    "rsi": 0.16226357880009373,
-    "macd": -0.43062113820015213,
-    "bollinger": 0.4177073562193163,
-    "slope": -0.39626319274688443
+    "maShort": -0.8668598677100343,
+    "maLong": 0.3647127702658814,
+    "ma75": -0.634832538657639,
+    "rsi": 0.10611767497290955,
+    "macd": -0.1971356863922483,
+    "bollinger": 0.22409027832284323,
+    "slope": -0.392788872859699
    },
    "news": {
-    "short": -0.04055109278323771,
-    "medium": -0.07994276487376824,
+    "short": -0.06833983102075857,
+    "medium": -0.07092582604890457,
     "headlines": []
    },
    "prediction": {
     "1d": {
      "days": 1,
-     "score": -0.019108507787175426,
+     "score": -0.05618319024129373,
      "direction": "flat",
-     "expectedPct": -0.04373724406851012,
+     "expectedPct": -0.13035075132416107,
      "rangePct": [
-      -2.332625761981151,
-      2.245151273844131
+      -2.4504530944687017,
+      2.1897515918203796
      ],
      "confidence": "mid",
      "contributions": [
       {
        "key": "rsi",
        "weight": 0.175,
-       "score": 0.16226357880009373
+       "score": 0.10611767497290955
       },
       {
        "key": "bollinger",
        "weight": 0.175,
-       "score": 0.4177073562193163
+       "score": 0.22409027832284323
       },
       {
        "key": "maShort",
        "weight": 0.075,
-       "score": -0.9070838621192255
+       "score": -0.8668598677100343
       },
       {
        "key": "macd",
        "weight": 0.075,
-       "score": -0.43062113820015213
+       "score": -0.1971356863922483
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": -0.04055109278323771
+       "score": -0.06833983102075857
       }
      ]
     },
     "1w": {
      "days": 5,
-     "score": -0.22072401934368682,
+     "score": -0.19625003973813376,
      "direction": "down",
-     "expectedPct": -1.129689881047769,
+     "expectedPct": -1.0181268673856678,
      "rangePct": [
-      -6.24780020001918,
-      3.988420437923642
+      -6.206033421413403,
+      4.169779686642068
      ],
      "confidence": "high",
      "contributions": [
       {
        "key": "macd",
        "weight": 0.175,
-       "score": -0.43062113820015213
+       "score": -0.1971356863922483
       },
       {
        "key": "maShort",
        "weight": 0.175,
-       "score": -0.9070838621192255
+       "score": -0.8668598677100343
       },
       {
        "key": "rsi",
        "weight": 0.075,
-       "score": 0.16226357880009373
+       "score": 0.10611767497290955
       },
       {
        "key": "bollinger",
        "weight": 0.075,
-       "score": 0.4177073562193163
+       "score": 0.22409027832284323
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": -0.06024692882850297
+       "score": -0.06963282853483158
       }
      ]
     },
     "1m": {
      "days": 21,
-     "score": -0.1663494746221727,
-     "direction": "down",
-     "expectedPct": -1.7448404528690213,
+     "score": -0.14853616892263855,
+     "direction": "flat",
+     "expectedPct": -1.5792431738132817,
      "rangePct": [
-      -12.233845343518983,
-      8.744164437780942
+      -12.211287781317548,
+      9.052801433690984
      ],
      "confidence": "high",
      "contributions": [
       {
        "key": "maLong",
        "weight": 0.21,
-       "score": 0.3843352924642413
+       "score": 0.3647127702658814
       },
       {
        "key": "slope",
        "weight": 0.21,
-       "score": -0.39626319274688443
+       "score": -0.392788872859699
       },
       {
        "key": "ma75",
        "weight": 0.18,
-       "score": -0.7325972756295019
+       "score": -0.634832538657639
       },
       {
        "key": "news",
        "weight": 0.4,
-       "score": -0.07994276487376824
+       "score": -0.07092582604890457
       }
      ]
     }
@@ -1963,12 +1978,11 @@
    "market": "JP",
    "kind": "index",
    "stale": false,
-   "asOf": "2026-11-11",
-   "last": 413,
-   "changePct": 0.6090133982947554,
+   "asOf": "2026-11-12",
+   "last": 416.20001220703125,
+   "changePct": 0.5556942122405761,
    "history": {
     "dates": [
-     "2025-10-16",
      "2025-10-17",
      "2025-10-20",
      "2025-10-21",
@@ -2227,10 +2241,10 @@
      "2026-11-06",
      "2026-11-09",
      "2026-11-10",
-     "2026-11-11"
+     "2026-11-11",
+     "2026-11-12"
     ],
     "closes": [
-     335.5,
      332.3999938964844,
      340,
      340.79998779296875,
@@ -2489,153 +2503,154 @@
      388.6000061035156,
      402.1000061035156,
      410.5,
-     413
+     413.8999938964844,
+     416.20001220703125
     ]
    },
    "features": {
-    "last": 413,
-    "sma5": 405.9600036621094,
-    "sma25": 420.6999987792969,
-    "sma50": 424.1339990234375,
-    "sma75": 423.81866577148435,
-    "sma200": 406.55089920043946,
-    "rsi14": 46.639283796070295,
+    "last": 416.20001220703125,
+    "sma5": 406.2600036621094,
+    "sma25": 419.76799926757815,
+    "sma50": 423.88799926757815,
+    "sma75": 423.77599934895835,
+    "sma200": 406.7123992919922,
+    "rsi14": 48.88059391585559,
     "macd": {
-     "macd": -5.360354422612886,
-     "signal": -4.38959944882737,
-     "hist": -0.9707549737855157
+     "macd": -4.588595257132852,
+     "signal": -4.417911506818706,
+     "hist": -0.1706837503141454
     },
     "bb": {
-     "mid": 417.2799987792969,
-     "upper": 435.81586175384234,
-     "lower": 398.7441358047514,
-     "percentB": 0.3845481652196496
+     "mid": 416.5699996948242,
+     "upper": 433.9223564775004,
+     "lower": 399.21764291214805,
+     "percentB": 0.4893389845417901
     },
-    "slope60": -0.0006551871005959888,
-    "vol20": 0.020146785863863106
+    "slope60": -0.0006431222129313,
+    "vol20": 0.020273193604948284
    },
    "techScores": {
-    "maShort": -0.7011398302205829,
-    "maLong": 0.40477239095190265,
-    "ma75": -0.3989035077259892,
-    "rsi": 0.06721432407859411,
-    "macd": -0.22919256634813762,
-    "bollinger": 0.23090366956070085,
-    "slope": -0.24670768477457408
+    "maShort": -0.6604721969630135,
+    "maLong": 0.39407284267628245,
+    "ma75": -0.28575761536536876,
+    "rsi": 0.02238812168288817,
+    "macd": -0.040435335904685024,
+    "bollinger": 0.02132203091641982,
+    "slope": -0.24089464498843122
    },
    "note": "ETF の価格",
    "news": {
-    "short": -0.04055109278323771,
-    "medium": -0.07994276487376824,
+    "short": -0.06833983102075857,
+    "medium": -0.07092582604890457,
     "headlines": []
    },
    "prediction": {
     "1d": {
      "days": 1,
-     "score": -0.037879827247396275,
+     "score": -0.07908870377057778,
      "direction": "flat",
-     "expectedPct": -0.07631567681134198,
+     "expectedPct": -0.16033806035053266,
      "rangePct": [
-      -2.0909942631976524,
-      1.9383629095749686
+      -2.187657420845361,
+      1.8669813001442959
      ],
      "confidence": "mid",
      "contributions": [
       {
        "key": "rsi",
        "weight": 0.175,
-       "score": 0.06721432407859411
+       "score": 0.02238812168288817
       },
       {
        "key": "bollinger",
        "weight": 0.175,
-       "score": 0.23090366956070085
+       "score": 0.02132203091641982
       },
       {
        "key": "maShort",
        "weight": 0.075,
-       "score": -0.7011398302205829
+       "score": -0.6604721969630135
       },
       {
        "key": "macd",
        "weight": 0.075,
-       "score": -0.22919256634813762
+       "score": -0.040435335904685024
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": -0.04055109278323771
+       "score": -0.06833983102075857
       }
      ]
     },
     "1w": {
      "days": 5,
-     "score": -0.17057278429083042,
+     "score": -0.1541969710743149,
      "direction": "down",
-     "expectedPct": -0.7684232755644381,
+     "expectedPct": -0.6990093949159671,
      "rangePct": [
-      -5.2733815475374115,
-      3.736534996408535
+      -5.2322332970838055,
+      3.8342145072518714
      ],
      "confidence": "high",
      "contributions": [
       {
        "key": "macd",
        "weight": 0.175,
-       "score": -0.22919256634813762
+       "score": -0.040435335904685024
       },
       {
        "key": "maShort",
        "weight": 0.175,
-       "score": -0.7011398302205829
+       "score": -0.6604721969630135
       },
       {
        "key": "rsi",
        "weight": 0.075,
-       "score": 0.06721432407859411
+       "score": 0.02238812168288817
       },
       {
        "key": "bollinger",
        "weight": 0.075,
-       "score": 0.23090366956070085
+       "score": 0.02132203091641982
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": -0.06024692882850297
+       "score": -0.06963282853483158
       }
      ]
     },
     "1m": {
      "days": 21,
-     "score": -0.07058614904294634,
+     "score": -0.04763927967087944,
      "direction": "flat",
-     "expectedPct": -0.6516807710793321,
+     "expectedPct": -0.4425853164117517,
      "rangePct": [
-      -9.88409789420123,
-      8.580736352042564
+      -9.732929743728768,
+      8.847759110905265
      ],
      "confidence": "high",
      "contributions": [
       {
        "key": "maLong",
        "weight": 0.21,
-       "score": 0.40477239095190265
+       "score": 0.39407284267628245
       },
       {
        "key": "slope",
        "weight": 0.21,
-       "score": -0.24670768477457408
+       "score": -0.24089464498843122
       },
       {
        "key": "ma75",
        "weight": 0.18,
-       "score": -0.3989035077259892
+       "score": -0.28575761536536876
       },
       {
        "key": "news",
        "weight": 0.4,
-       "score": -0.07994276487376824
+       "score": -0.07092582604890457
       }
      ]
     }
@@ -2647,12 +2662,11 @@
    "market": "US",
    "kind": "index",
    "stale": false,
-   "asOf": "2026-11-10",
-   "last": 7520.93017578125,
-   "changePct": -0.38423836282327484,
+   "asOf": "2026-11-11",
+   "last": 7619.3798828125,
+   "changePct": 1.3090097199449646,
    "history": {
     "dates": [
-     "2025-10-29",
      "2025-10-30",
      "2025-10-31",
      "2025-11-03",
@@ -2911,10 +2925,10 @@
      "2026-11-05",
      "2026-11-06",
      "2026-11-09",
-     "2026-11-10"
+     "2026-11-10",
+     "2026-11-11"
     ],
     "closes": [
-     6890.58984375,
      6822.33984375,
      6840.2001953125,
      6851.97021484375,
@@ -3173,152 +3187,153 @@
      7353.72998046875,
      7376.85986328125,
      7549.93994140625,
-     7520.93017578125
+     7520.93017578125,
+     7619.3798828125
     ]
    },
    "features": {
-    "last": 7520.93017578125,
-    "sma5": 7498.016015625,
-    "sma25": 7664.22361328125,
-    "sma50": 7672.906826171875,
-    "sma75": 7670.0721484375,
-    "sma200": 7331.078413085937,
-    "rsi14": 44.45024759031197,
+    "last": 7619.3798828125,
+    "sma5": 7484.16796875,
+    "sma25": 7656.9280078125,
+    "sma50": 7672.66501953125,
+    "sma75": 7672.613483072917,
+    "sma200": 7334.282312011719,
+    "rsi14": 49.73894185227137,
     "macd": {
-     "macd": -58.365986137656364,
-     "signal": -38.077618288821476,
-     "hist": -20.288367848834888
+     "macd": -49.63988358939059,
+     "signal": -40.39007133781342,
+     "hist": -9.249812251577175
     },
     "bb": {
-     "mid": 7630.711499023438,
-     "upper": 7857.760929501038,
-     "lower": 7403.662068545837,
-     "percentB": 0.25824356174058266
+     "mid": 7625.73349609375,
+     "upper": 7849.163913279194,
+     "lower": 7402.303078908305,
+     "percentB": 0.48578167341473427
     },
-    "slope60": -0.0001543843450236936,
-    "vol20": 0.013931631428345219
+    "slope60": -0.00016234621908099633,
+    "vol20": 0.014129382948541734
    },
    "techScores": {
-    "maShort": -0.6517336841941751,
-    "maLong": 0.584567416558564,
-    "ma75": -0.4343454492862588,
-    "rsi": 0.11099504819376066,
-    "macd": -0.368996414757753,
-    "bollinger": 0.4835128765188347,
-    "slope": -0.08562727059040064
+    "maShort": -0.663156790703586,
+    "maLong": 0.5737306255465298,
+    "ma75": -0.16223467131700736,
+    "rsi": 0.005221162954572662,
+    "macd": -0.1701667185726811,
+    "bollinger": 0.028436653170531456,
+    "slope": -0.08876668800953656
    },
    "news": {
-    "short": -0.10925718888183927,
-    "medium": -0.15302030510183268,
+    "short": -0.13947438635844858,
+    "medium": -0.13267545775745546,
     "headlines": []
    },
    "prediction": {
     "1d": {
      "days": 1,
-     "score": -0.027144465037610067,
+     "score": -0.1263463385530511,
      "direction": "flat",
-     "expectedPct": -0.037816668222358636,
+     "expectedPct": -0.17851958015621616,
      "rangePct": [
-      -1.4309798110568805,
-      1.3553464746121633
+      -1.5914578750103896,
+      1.234418714697957
      ],
      "confidence": "mid",
      "contributions": [
       {
        "key": "rsi",
        "weight": 0.175,
-       "score": 0.11099504819376066
+       "score": 0.005221162954572662
       },
       {
        "key": "bollinger",
        "weight": 0.175,
-       "score": 0.4835128765188347
+       "score": 0.028436653170531456
       },
       {
        "key": "maShort",
        "weight": 0.075,
-       "score": -0.6517336841941751
+       "score": -0.663156790703586
       },
       {
        "key": "macd",
        "weight": 0.075,
-       "score": -0.368996414757753
+       "score": -0.1701667185726811
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": -0.10925718888183927
+       "score": -0.13947438635844858
       }
      ]
     },
     "1w": {
      "days": 5,
-     "score": -0.19960904645906077,
+     "score": -0.21134473894293995,
      "direction": "down",
-     "expectedPct": -0.6218235968256323,
+     "expectedPct": -0.6677280790951851,
      "rangePct": [
-      -3.7370310879508724,
-      2.4933838942996083
+      -3.827154154401758,
+      2.4916979962113883
      ],
      "confidence": "high",
      "contributions": [
       {
        "key": "macd",
        "weight": 0.175,
-       "score": -0.368996414757753
+       "score": -0.1701667185726811
       },
       {
        "key": "maShort",
        "weight": 0.175,
-       "score": -0.6517336841941751
+       "score": -0.663156790703586
       },
       {
        "key": "rsi",
        "weight": 0.075,
-       "score": 0.11099504819376066
+       "score": 0.005221162954572662
       },
       {
        "key": "bollinger",
        "weight": 0.075,
-       "score": 0.4835128765188347
+       "score": 0.028436653170531456
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": -0.13113874699183597
+       "score": -0.13607492205795202
       }
      ]
     },
     "1m": {
      "days": 21,
-     "score": -0.03461287225894534,
+     "score": 0.019570002942725054,
      "direction": "flat",
-     "expectedPct": -0.22097811433633135,
+     "expectedPct": 0.1267137472472198,
      "rangePct": [
-      -6.605253671798103,
-      6.16329744312544
+      -6.348182941223862,
+      6.601610435718302
      ],
-     "confidence": "high",
+     "confidence": "low",
      "contributions": [
       {
        "key": "maLong",
        "weight": 0.21,
-       "score": 0.584567416558564
+       "score": 0.5737306255465298
       },
       {
        "key": "slope",
        "weight": 0.21,
-       "score": -0.08562727059040064
+       "score": -0.08876668800953656
       },
       {
        "key": "ma75",
        "weight": 0.18,
-       "score": -0.4343454492862588
+       "score": -0.16223467131700736
       },
       {
        "key": "news",
        "weight": 0.4,
-       "score": -0.15302030510183268
+       "score": -0.13267545775745546
       }
      ]
     }
@@ -3330,12 +3345,11 @@
    "market": "US",
    "kind": "index",
    "stale": false,
-   "asOf": "2026-11-10",
-   "last": 25065.875,
-   "changePct": -0.7415538042607306,
+   "asOf": "2026-11-11",
+   "last": 25466.189453125,
+   "changePct": 1.5970733360735068,
    "history": {
     "dates": [
-     "2025-10-29",
      "2025-10-30",
      "2025-10-31",
      "2025-11-03",
@@ -3594,10 +3608,10 @@
      "2026-11-05",
      "2026-11-06",
      "2026-11-09",
-     "2026-11-10"
+     "2026-11-10",
+     "2026-11-11"
     ],
     "closes": [
-     23958.470703125,
      23581.140625,
      23724.9609375,
      23834.720703125,
@@ -3856,152 +3870,153 @@
      24315,
      24579.4296875,
      25253.140625,
-     25065.875
+     25065.869140625,
+     25466.189453125
     ]
    },
    "features": {
-    "last": 25065.875,
-    "sma5": 24989.991015625,
-    "sma25": 26156.88859375,
-    "sma50": 26408.7332421875,
-    "sma75": 26325.53359375,
-    "sma200": 25114.36677734375,
-    "rsi14": 40.85998706188602,
+    "last": 25466.189453125,
+    "sma5": 24935.92578125,
+    "sma25": 26073.988359375,
+    "sma50": 26396.0615234375,
+    "sma75": 26333.390572916665,
+    "sma200": 25122.612197265626,
+    "rsi14": 45.549838813945485,
     "macd": {
-     "macd": -469.5703147471031,
-     "signal": -357.17493992860784,
-     "hist": -112.39537481849527
+     "macd": -431.54701901684166,
+     "signal": -372.0494305527432,
+     "hist": -59.49758846409844
     },
     "bb": {
-     "mid": 25868.68671875,
-     "upper": 27274.79295223084,
-     "lower": 24462.580485269158,
-     "percentB": 0.21452664825949017
+     "mid": 25807.35244140625,
+     "upper": 27170.66991139736,
+     "lower": 24444.034971415138,
+     "percentB": 0.37487764376573524
     },
-    "slope60": -0.00041435509067851704,
-    "vol20": 0.01945014212462936
+    "slope60": -0.0004770319299961399,
+    "vol20": 0.019605430799447647
    },
    "techScores": {
-    "maShort": -0.8166966589734377,
-    "maLong": 0.4853497163117259,
-    "ma75": -0.6750881518438323,
-    "rsi": 0.18280025876227968,
-    "macd": -0.4309610085633073,
-    "bollinger": 0.5709467034810196,
-    "slope": -0.16353412959722205
+    "maShort": -0.8051717859886514,
+    "maLong": 0.47545494590626775,
+    "ma75": -0.5079079566710603,
+    "rsi": 0.0890032237210903,
+    "macd": -0.2339230840375743,
+    "bollinger": 0.25024471246852953,
+    "slope": -0.18627157928669463
    },
    "news": {
-    "short": -0.10925718888183927,
-    "medium": -0.15302030510183268,
+    "short": -0.13947438635844858,
+    "medium": -0.13267545775745546,
     "headlines": []
    },
    "prediction": {
     "1d": {
      "days": 1,
-     "score": -0.01629720111359815,
+     "score": -0.08830091959800775,
      "direction": "flat",
-     "expectedPct": -0.03169828778931518,
+     "expectedPct": -0.17311775687063313,
      "rangePct": [
-      -1.9767125002522512,
-      1.9133159246736207
+      -2.1336608368153978,
+      1.7874253230741317
      ],
      "confidence": "mid",
      "contributions": [
       {
        "key": "rsi",
        "weight": 0.175,
-       "score": 0.18280025876227968
+       "score": 0.0890032237210903
       },
       {
        "key": "bollinger",
        "weight": 0.175,
-       "score": 0.5709467034810196
+       "score": 0.25024471246852953
       },
       {
        "key": "maShort",
        "weight": 0.075,
-       "score": -0.8166966589734377
+       "score": -0.8051717859886514
       },
       {
        "key": "macd",
        "weight": 0.075,
-       "score": -0.4309610085633073
+       "score": -0.2339230840375743
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": -0.10925718888183927
+       "score": -0.13947438635844858
       }
      ]
     },
     "1w": {
      "days": 5,
-     "score": -0.2273784431466009,
+     "score": -0.22443546806934397,
      "direction": "down",
-     "expectedPct": -0.9889106860300629,
+     "expectedPct": -0.9839043540829875,
      "rangePct": [
-      -5.338094682300406,
-      3.360273310240281
+      -5.367811953656286,
+      3.4000032454903106
      ],
      "confidence": "high",
      "contributions": [
       {
        "key": "macd",
        "weight": 0.175,
-       "score": -0.4309610085633073
+       "score": -0.2339230840375743
       },
       {
        "key": "maShort",
        "weight": 0.175,
-       "score": -0.8166966589734377
+       "score": -0.8051717859886514
       },
       {
        "key": "rsi",
        "weight": 0.075,
-       "score": 0.18280025876227968
+       "score": 0.0890032237210903
       },
       {
        "key": "bollinger",
        "weight": 0.075,
-       "score": 0.5709467034810196
+       "score": 0.25024471246852953
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": -0.13113874699183597
+       "score": -0.13607492205795202
       }
      ]
     },
     "1m": {
      "days": 21,
-     "score": -0.11514271616257707,
+     "score": -0.08376510831366267,
      "direction": "flat",
-     "expectedPct": -1.0262871625951577,
+     "expectedPct": -0.7525739675494677,
      "rangePct": [
-      -9.939462018971483,
-      7.8868876937811665
+      -9.736911034618212,
+      8.231763099519275
      ],
      "confidence": "high",
      "contributions": [
       {
        "key": "maLong",
        "weight": 0.21,
-       "score": 0.4853497163117259
+       "score": 0.47545494590626775
       },
       {
        "key": "slope",
        "weight": 0.21,
-       "score": -0.16353412959722205
+       "score": -0.18627157928669463
       },
       {
        "key": "ma75",
        "weight": 0.18,
-       "score": -0.6750881518438323
+       "score": -0.5079079566710603
       },
       {
        "key": "news",
        "weight": 0.4,
-       "score": -0.15302030510183268
+       "score": -0.13267545775745546
       }
      ]
     }
@@ -4013,12 +4028,11 @@
    "market": "US",
    "kind": "index",
    "stale": false,
-   "asOf": "2026-11-10",
-   "last": 52231.890625,
-   "changePct": -0.3013172901187744,
+   "asOf": "2026-11-11",
+   "last": 52486.48828125,
+   "changePct": 0.487437182923145,
    "history": {
     "dates": [
-     "2025-10-29",
      "2025-10-30",
      "2025-10-31",
      "2025-11-03",
@@ -4277,10 +4291,10 @@
      "2026-11-05",
      "2026-11-06",
      "2026-11-09",
-     "2026-11-10"
+     "2026-11-10",
+     "2026-11-11"
     ],
     "closes": [
-     47632,
      47522.12109375,
      47562.87109375,
      47336.6796875,
@@ -4539,152 +4553,153 @@
      51523.05859375,
      51285.73046875,
      52389.75,
-     52231.890625
+     52231.890625,
+     52486.48828125
     ]
    },
    "features": {
-    "last": 52231.890625,
-    "sma5": 52157.31015625,
-    "sma25": 52066.968125,
-    "sma50": 52021.545859375,
-    "sma75": 52477.78671875,
-    "sma200": 50706.9111328125,
-    "rsi14": 51.17783243622043,
+    "last": 52486.48828125,
+    "sma5": 51983.38359375,
+    "sma25": 52119.2328125,
+    "sma50": 52015.938046875,
+    "sma75": 52474.308958333335,
+    "sma200": 50724.3265234375,
+    "rsi14": 53.162900074106105,
     "macd": {
-     "macd": 24.17429458370316,
-     "signal": 42.94319104712939,
-     "hist": -18.76889646342623
+     "macd": 52.06899611837434,
+     "signal": 44.768352276510896,
+     "hist": 7.300643841863447
     },
     "bb": {
-     "mid": 52204.3544921875,
-     "upper": 53165.24282314144,
-     "lower": 51243.46616123356,
-     "percentB": 0.5143284770589123
+     "mid": 52247.6048828125,
+     "upper": 53177.010859204456,
+     "lower": 51318.19890642054,
+     "percentB": 0.6285140210550773
     },
-    "slope60": -0.00041216186776779694,
-    "vol20": 0.012964286542615323
+    "slope60": -0.00036896592396260257,
+    "vol20": 0.012994288266215312
    },
    "techScores": {
-    "maShort": 0.06681921106705066,
-    "maLong": 0.3799169101953728,
-    "ma75": -0.1198980421722392,
-    "rsi": -0.023556648724408547,
-    "macd": -0.05537832512535051,
-    "bollinger": -0.02865695411782454,
-    "slope": -0.24140030091138423
+    "maShort": -0.0999594509814798,
+    "maLong": 0.3730109169741058,
+    "ma75": 0.00595384513248407,
+    "rsi": -0.0632580014821221,
+    "macd": 0.021405471617493493,
+    "bollinger": -0.2570280421101545,
+    "slope": -0.21646336722310902
    },
    "news": {
-    "short": -0.10925718888183927,
-    "medium": -0.15302030510183268,
+    "short": -0.13947438635844858,
+    "medium": -0.13267545775745546,
     "headlines": []
    },
    "prediction": {
     "1d": {
      "days": 1,
-     "score": -0.0629079084926829,
+     "score": -0.13167879926017168,
      "direction": "flat",
-     "expectedPct": -0.08155561514957652,
+     "expectedPct": -0.17110722761357702,
      "rangePct": [
-      -1.3779842694111086,
-      1.2148730391119558
+      -1.4705360542351082,
+      1.1283215990079543
      ],
      "confidence": "high",
      "contributions": [
       {
        "key": "rsi",
        "weight": 0.175,
-       "score": -0.023556648724408547
+       "score": -0.0632580014821221
       },
       {
        "key": "bollinger",
        "weight": 0.175,
-       "score": -0.02865695411782454
+       "score": -0.2570280421101545
       },
       {
        "key": "maShort",
        "weight": 0.075,
-       "score": 0.06681921106705066
+       "score": -0.0999594509814798
       },
       {
        "key": "macd",
        "weight": 0.075,
-       "score": -0.05537832512535051
+       "score": 0.021405471617493493
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": -0.10925718888183927
+       "score": -0.13947438635844858
       }
      ]
     },
     "1w": {
      "days": 5,
-     "score": -0.06748323866928795,
+     "score": -0.10580586068709436,
      "direction": "flat",
-     "expectedPct": -0.1956273359610844,
+     "expectedPct": -0.30743069259468686,
      "rangePct": [
-      -3.094529934868443,
-      2.7032752629462746
+      -3.2130418808432193,
+      2.5981804956538452
      ],
      "confidence": "high",
      "contributions": [
       {
        "key": "macd",
        "weight": 0.175,
-       "score": -0.05537832512535051
+       "score": 0.021405471617493493
       },
       {
        "key": "maShort",
        "weight": 0.175,
-       "score": 0.06681921106705066
+       "score": -0.0999594509814798
       },
       {
        "key": "rsi",
        "weight": 0.075,
-       "score": -0.023556648724408547
+       "score": -0.0632580014821221
       },
       {
        "key": "bollinger",
        "weight": 0.075,
-       "score": -0.02865695411782454
+       "score": -0.2570280421101545
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": -0.13113874699183597
+       "score": -0.13607492205795202
       }
      ]
     },
     "1m": {
      "days": 21,
-     "score": -0.05370128168209852,
+     "score": -0.01912350553142573,
      "direction": "flat",
-     "expectedPct": -0.3190383715466767,
+     "expectedPct": -0.11387533041730533,
      "rangePct": [
-      -6.260020812809882,
-      5.621944069716529
+      -6.0686062886181205,
+      5.84085562778351
      ],
-     "confidence": "high",
+     "confidence": "mid",
      "contributions": [
       {
        "key": "maLong",
        "weight": 0.21,
-       "score": 0.3799169101953728
+       "score": 0.3730109169741058
       },
       {
        "key": "slope",
        "weight": 0.21,
-       "score": -0.24140030091138423
+       "score": -0.21646336722310902
       },
       {
        "key": "ma75",
        "weight": 0.18,
-       "score": -0.1198980421722392
+       "score": 0.00595384513248407
       },
       {
        "key": "news",
        "weight": 0.4,
-       "score": -0.15302030510183268
+       "score": -0.13267545775745546
       }
      ]
     }
@@ -4696,13 +4711,11 @@
    "market": "US",
    "kind": "stock",
    "stale": false,
-   "asOf": "2026-11-09",
-   "last": 35.34000015258789,
-   "changePct": 8.33844668843453,
+   "asOf": "2026-11-11",
+   "last": 34.060001373291016,
+   "changePct": -2.657903002468598,
    "history": {
     "dates": [
-     "2025-10-28",
-     "2025-10-29",
      "2025-10-30",
      "2025-10-31",
      "2025-11-03",
@@ -4960,11 +4973,11 @@
      "2026-11-04",
      "2026-11-05",
      "2026-11-06",
-     "2026-11-09"
+     "2026-11-09",
+     "2026-11-10",
+     "2026-11-11"
     ],
     "closes": [
-     57.150001525878906,
-     61.11000061035156,
      60.16999816894531,
      62.380001068115234,
      58.400001525878906,
@@ -5222,43 +5235,45 @@
      29.540000915527344,
      26.43000030517578,
      32.619998931884766,
-     35.34000015258789
+     35.34000015258789,
+     34.9900016784668,
+     34.060001373291016
     ]
    },
    "features": {
-    "last": 35.34000015258789,
-    "sma5": 30.78400001525879,
-    "sma25": 33.15040008544922,
-    "sma50": 36.84840019226074,
-    "sma75": 38.25320004781087,
-    "sma200": 41.48020008087158,
-    "rsi14": 53.924528379484975,
+    "last": 34.060001373291016,
+    "sma5": 32.68800048828125,
+    "sma25": 32.52720016479492,
+    "sma50": 36.68760025024414,
+    "sma75": 38.243200098673505,
+    "sma200": 41.38115009307862,
+    "rsi14": 51.01914047931273,
     "macd": {
-     "macd": -1.8315765362894005,
-     "signal": -2.3557342409942343,
-     "hist": 0.5241577047048338
+     "macd": -1.1532207672149113,
+     "signal": -1.9653041706718137,
+     "hist": 0.8120834034569024
     },
     "bb": {
-     "mid": 31.426000022888182,
-     "upper": 35.53608656051773,
-     "lower": 27.315913485258633,
-     "percentB": 0.9761457081092347
+     "mid": 31.571000194549562,
+     "upper": 35.87837010738642,
+     "lower": 27.263630281712707,
+     "percentB": 0.7889235460511198
     },
-    "slope60": -0.00604498707564395,
-    "vol20": 0.0765840755148738
+    "slope60": -0.005634615370568875,
+    "vol20": 0.07256794156149235
    },
    "techScores": {
-    "maShort": -0.43500089079387816,
-    "maLong": -0.2836147809751157,
-    "ma75": -0.319840029441319,
-    "rsi": -0.07849056758969951,
-    "macd": 0.36906064225107454,
-    "bollinger": -0.9522914162184695,
-    "slope": -0.5451188627378837
+    "maShort": 0.03404846410464461,
+    "maLong": -0.30279735660008283,
+    "ma75": -0.464037560188971,
+    "rsi": -0.020382809586254637,
+    "macd": 0.5764400362081968,
+    "bollinger": -0.5778470921022396,
+    "slope": -0.538076189864281
    },
    "news": {
-    "short": 0.34892185889201777,
-    "medium": 0.26967564267392413,
+    "short": 0.32565464142465833,
+    "medium": 0.2898645918341763,
     "headlines": [
      {
       "title": "IonQ Shares Surge as Revenue Soars. Is It Too Late to Buy the Quantum Computing Stock? - The Motley Fool",
@@ -5271,7 +5286,7 @@
        "surge",
        "soars"
       ],
-      "ageDays": 0.46970546296296295
+      "ageDays": 1.5111545023148147
      },
      {
       "title": "IonQ Surges 18% on Beat and Raised Guidance; Rigetti Computing Jumps 18%, D-Wave Quantum Surges 16% - 24/7 Wall St.",
@@ -5284,7 +5299,7 @@
        "surges",
        "beat"
       ],
-      "ageDays": 4.320399907407407
+      "ageDays": 5.36184894675926
      },
      {
       "title": "IonQ Jumps 8% as Raised Revenue Outlook Extends Quantum Rally; Rigetti Surges 8%, D-Wave Rises 6% - 24/7 Wall St.",
@@ -5297,7 +5312,7 @@
        "surges",
        "rally"
       ],
-      "ageDays": 1.371094351851852
+      "ageDays": 2.4125433912037035
      },
      {
       "title": "IONQが決算好調と業績見通し引き上げで株価3%上昇 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -5310,19 +5325,7 @@
        "好調",
        "上昇"
       ],
-      "ageDays": 5.108594351851852
-     },
-     {
-      "title": "1カ月で36％急落、量子コンピュータIonQの株価はどこまで下がるのか - Forbes JAPAN",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZbmJ6ODdYOTFfNVNwSzNIWkVnRFRTdEpBN25GNjA5NUs0MnZVXzI1d0trWnZpbkFFOWJtdlF3d0hyeS1Nam5LaXdxV3lEa2xxZ2NzUEl1N3NlZw?oc=5",
-      "source": "Forbes JAPAN",
-      "pubDate": "2026-11-04T22:30:00.000Z",
-      "lang": "ja",
-      "score": -0.6640367702678491,
-      "matched": [
-       "急落"
-      ],
-      "ageDays": 6.136372129629629
+      "ageDays": 6.150043391203703
      },
      {
       "title": "IonQ (IONQ) Stock Soars 23% After Earnings, but Analysts See 75% More Upside - TipRanks",
@@ -5334,7 +5337,7 @@
       "matched": [
        "soars"
       ],
-      "ageDays": 2.5444276851851853
+      "ageDays": 3.585876724537037
      },
      {
       "title": "IonQ Stocks Surge 10.93% After 336% Revenue Jump and Higher Full-Year Guide - Yahoo Finance",
@@ -5346,7 +5349,7 @@
       "matched": [
        "surge"
       ],
-      "ageDays": 4.276661481481481
+      "ageDays": 5.318110520833334
      },
      {
       "title": "IONQ Q3 Earnings Beat Estimates, 2026 Sales View Raised, Stock Up - Yahoo Finance",
@@ -5358,7 +5361,7 @@
       "matched": [
        "beat"
       ],
-      "ageDays": 4.478038796296296
+      "ageDays": 5.519487835648148
      },
      {
       "title": "IonQ (NYSE:IONQ) beats expectations in strong Q3 2026, guides for strong full-year sales - Yahoo Finance",
@@ -5370,7 +5373,7 @@
       "matched": [
        "beats"
       ],
-      "ageDays": 5.1813374074074074
+      "ageDays": 6.222786446759259
      },
      {
       "title": "IonQ Shares Surge 10% As Analysts See Acquisition Opportunities, Sold-Out 2027 Capacity And Quantum Secur - Benzinga",
@@ -5382,117 +5385,129 @@
       "matched": [
        "surge"
       ],
-      "ageDays": 4.357703148148148
+      "ageDays": 5.3991521875
+     },
+     {
+      "title": "IonQ Stock Surges After Strong Q3 Results and Guidance - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMERXVThwZ1FnQ1ByLU5LNWdXZEtONmVkUmc1eUtzX1N3TGxZa1R2Z0JNU1NfcV9ZQ1dWWVk3eHBpekRhTjNwcEpRUEpvUjFLdGVLMXFRRzRHQ0hjOGo4RTl6TS0xNDMwVk9COVpZYmpoT1BJbWVrQmRWc0RJOUIxVC1PTlZRTVhFMG0yNFNCLW5zVFFvTzVGb240QmEtZHEwVWkwQlBCZzVYMW9XNEY0SkFja0l4UQ?oc=5",
+      "source": "Benzinga",
+      "pubDate": "2026-11-06T15:49:35.000Z",
+      "lang": "en",
+      "score": 0.5370495669980353,
+      "matched": [
+       "surges"
+      ],
+      "ageDays": 5.455888298611111
      }
     ]
    },
    "prediction": {
     "1d": {
      "days": 1,
-     "score": -0.010871436361130943,
+     "score": 0.10392372544030579,
      "direction": "flat",
-     "expectedPct": -0.08325789032359969,
+     "expectedPct": 0.7541530834604686,
      "rangePct": [
-      -7.741665441810979,
-      7.57514966116378
+      -6.502641072688767,
+      8.010947239609704
      ],
-     "confidence": "low",
+     "confidence": "mid",
      "contributions": [
       {
        "key": "rsi",
        "weight": 0.175,
-       "score": -0.07849056758969951
+       "score": -0.020382809586254637
       },
       {
        "key": "bollinger",
        "weight": 0.175,
-       "score": -0.9522914162184695
+       "score": -0.5778470921022396
       },
       {
        "key": "maShort",
        "weight": 0.075,
-       "score": -0.43500089079387816
+       "score": 0.03404846410464461
       },
       {
        "key": "macd",
        "weight": 0.075,
-       "score": 0.36906064225107454
+       "score": 0.5764400362081968
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": 0.34892185889201777
+       "score": 0.32565464142465833
       }
      ]
     },
     "1w": {
      "days": 5,
-     "score": 0.06580118311088219,
-     "direction": "flat",
-     "expectedPct": 1.1268268288440964,
+     "score": 0.21584805324281886,
+     "direction": "up",
+     "expectedPct": 3.5024983747141567,
      "rangePct": [
-      -15.997893055679407,
-      18.2515467133676
+      -12.724186657158757,
+      19.729183406587072
      ],
-     "confidence": "mid",
+     "confidence": "high",
      "contributions": [
       {
        "key": "macd",
        "weight": 0.175,
-       "score": 0.36906064225107454
+       "score": 0.5764400362081968
       },
       {
        "key": "maShort",
        "weight": 0.175,
-       "score": -0.43500089079387816
+       "score": 0.03404846410464461
       },
       {
        "key": "rsi",
        "weight": 0.075,
-       "score": -0.07849056758969951
+       "score": -0.020382809586254637
       },
       {
        "key": "bollinger",
        "weight": 0.075,
-       "score": -0.9522914162184695
+       "score": -0.5778470921022396
       },
       {
        "key": "news",
        "weight": 0.5,
-       "score": 0.309298750782971
+       "score": 0.3077596166294173
       }
      ]
     },
     "1m": {
      "days": 21,
-     "score": -0.12373501340959764,
+     "score": -0.14416436885786066,
      "direction": "flat",
-     "expectedPct": -4.342509040182983,
+     "expectedPct": -4.794158482245801,
      "rangePct": [
-      -39.437741347695315,
-      30.75272326732935
+      -38.04896700551286,
+      28.460650041021257
      ],
      "confidence": "mid",
      "contributions": [
       {
        "key": "maLong",
        "weight": 0.21,
-       "score": -0.2836147809751157
+       "score": -0.30279735660008283
       },
       {
        "key": "slope",
        "weight": 0.21,
-       "score": -0.5451188627378837
+       "score": -0.538076189864281
       },
       {
        "key": "ma75",
        "weight": 0.18,
-       "score": -0.319840029441319
+       "score": -0.464037560188971
       },
       {
        "key": "news",
        "weight": 0.4,
-       "score": 0.26967564267392413
+       "score": 0.2898645918341763
       }
      ]
     }
