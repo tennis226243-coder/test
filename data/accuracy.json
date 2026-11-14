@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-13T02:29:21.613Z",
+ "updatedAt": "2026-11-14T02:06:16.255Z",
  "byHorizon": {
   "1d": {
-   "n": 46,
-   "hits": 9,
-   "hitRate": 0.1956521739130435,
-   "inRangeRate": 0.6086956521739131
+   "n": 51,
+   "hits": 11,
+   "hitRate": 0.21568627450980393,
+   "inRangeRate": 0.6274509803921569
   },
   "1w": {
-   "n": 26,
+   "n": 31,
    "hits": 9,
-   "hitRate": 0.34615384615384615,
-   "inRangeRate": 0.6538461538461539
+   "hitRate": 0.2903225806451613,
+   "inRangeRate": 0.6129032258064516
   },
   "1m": {
    "n": 0,
@@ -21,6 +21,106 @@
   }
  },
  "bySymbol": {
+  "^GSPC": {
+   "1d": {
+    "n": 10,
+    "hits": 1,
+    "hitRate": 0.1,
+    "inRangeRate": 0.7
+   },
+   "1w": {
+    "n": 6,
+    "hits": 2,
+    "hitRate": 0.3333333333333333,
+    "inRangeRate": 0.5
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
+  "^IXIC": {
+   "1d": {
+    "n": 10,
+    "hits": 1,
+    "hitRate": 0.1,
+    "inRangeRate": 0.7
+   },
+   "1w": {
+    "n": 6,
+    "hits": 3,
+    "hitRate": 0.5,
+    "inRangeRate": 0.8333333333333334
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
+  "^DJI": {
+   "1d": {
+    "n": 10,
+    "hits": 2,
+    "hitRate": 0.2,
+    "inRangeRate": 0.7
+   },
+   "1w": {
+    "n": 6,
+    "hits": 0,
+    "hitRate": 0,
+    "inRangeRate": 1
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
+  "IONQ": {
+   "1d": {
+    "n": 7,
+    "hits": 2,
+    "hitRate": 0.2857142857142857,
+    "inRangeRate": 0.2857142857142857
+   },
+   "1w": {
+    "n": 5,
+    "hits": 0,
+    "hitRate": 0,
+    "inRangeRate": 0
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
+  "^N225": {
+   "1d": {
+    "n": 7,
+    "hits": 2,
+    "hitRate": 0.2857142857142857,
+    "inRangeRate": 0.7142857142857143
+   },
+   "1w": {
+    "n": 4,
+    "hits": 2,
+    "hitRate": 0.5,
+    "inRangeRate": 0.75
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
   "1306.T": {
    "1d": {
     "n": 7,
@@ -40,109 +140,79 @@
     "hitRate": null,
     "inRangeRate": null
    }
-  },
-  "^GSPC": {
-   "1d": {
-    "n": 9,
-    "hits": 1,
-    "hitRate": 0.1111111111111111,
-    "inRangeRate": 0.6666666666666666
-   },
-   "1w": {
-    "n": 5,
-    "hits": 2,
-    "hitRate": 0.4,
-    "inRangeRate": 0.6
-   },
-   "1m": {
-    "n": 0,
-    "hits": 0,
-    "hitRate": null,
-    "inRangeRate": null
-   }
-  },
-  "^IXIC": {
-   "1d": {
-    "n": 9,
-    "hits": 1,
-    "hitRate": 0.1111111111111111,
-    "inRangeRate": 0.6666666666666666
-   },
-   "1w": {
-    "n": 5,
-    "hits": 3,
-    "hitRate": 0.6,
-    "inRangeRate": 0.8
-   },
-   "1m": {
-    "n": 0,
-    "hits": 0,
-    "hitRate": null,
-    "inRangeRate": null
-   }
-  },
-  "^DJI": {
-   "1d": {
-    "n": 9,
-    "hits": 1,
-    "hitRate": 0.1111111111111111,
-    "inRangeRate": 0.6666666666666666
-   },
-   "1w": {
-    "n": 5,
-    "hits": 0,
-    "hitRate": 0,
-    "inRangeRate": 1
-   },
-   "1m": {
-    "n": 0,
-    "hits": 0,
-    "hitRate": null,
-    "inRangeRate": null
-   }
-  },
-  "^N225": {
-   "1d": {
-    "n": 6,
-    "hits": 1,
-    "hitRate": 0.16666666666666666,
-    "inRangeRate": 0.6666666666666666
-   },
-   "1w": {
-    "n": 3,
-    "hits": 2,
-    "hitRate": 0.6666666666666666,
-    "inRangeRate": 1
-   },
-   "1m": {
-    "n": 0,
-    "hits": 0,
-    "hitRate": null,
-    "inRangeRate": null
-   }
-  },
-  "IONQ": {
-   "1d": {
-    "n": 6,
-    "hits": 2,
-    "hitRate": 0.3333333333333333,
-    "inRangeRate": 0.3333333333333333
-   },
-   "1w": {
-    "n": 4,
-    "hits": 0,
-    "hitRate": 0,
-    "inRangeRate": 0
-   },
-   "1m": {
-    "n": 0,
-    "hits": 0,
-    "hitRate": null,
-    "inRangeRate": null
-   }
   }
  },
  "recent": [
+  {
+   "date": "2026-11-13",
+   "symbol": "^GSPC",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": -0.03910880065007854,
+   "rangePct": [
+    -1.450350108747508,
+    1.3721325074473507
+   ],
+   "actualPct": -0.40474660007389085,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-13",
+   "symbol": "^IXIC",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": -0.005301913779918769,
+   "rangePct": [
+    -1.9647385677037053,
+    1.9541347401438676
+   ],
+   "actualPct": -0.9060138102659154,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-13",
+   "symbol": "^DJI",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": -0.03154517473834824,
+   "rangePct": [
+    -1.3129786887962047,
+    1.2498883393195084
+   ],
+   "actualPct": 0.0964889970948013,
+   "hit": true,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-13",
+   "symbol": "IONQ",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": -0.022442954018990845,
+   "rangePct": [
+    -7.279237110168226,
+    7.234351202130244
+   ],
+   "actualPct": -9.395186828879032,
+   "hit": false,
+   "inRange": false
+  },
+  {
+   "date": "2026-11-12",
+   "symbol": "^N225",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": -0.13035075132416107,
+   "rangePct": [
+    -2.4504530944687017,
+    2.1897515918203796
+   ],
+   "actualPct": -0.9265435878934025,
+   "hit": false,
+   "inRange": true
+  },
   {
    "date": "2026-11-12",
    "symbol": "1306.T",
@@ -153,7 +223,7 @@
     -2.187657420845361,
     1.8669813001442959
    ],
-   "actualPct": 0.38442468500976545,
+   "actualPct": -0.16819129901491925,
    "hit": true,
    "inRange": true
   },
@@ -181,7 +251,7 @@
     -2.1336608368153978,
     1.7874253230741317
    ],
-   "actualPct": -0.3930533200078634,
+   "actualPct": -0.3930686589733057,
    "hit": true,
    "inRange": true
   },
@@ -209,8 +279,8 @@
     -2.332625761981151,
     2.245151273844131
    ],
-   "actualPct": 1.343841795316214,
-   "hit": false,
+   "actualPct": -0.271736554408164,
+   "hit": true,
    "inRange": true
   },
   {
@@ -369,6 +439,20 @@
   },
   {
    "date": "2026-11-07",
+   "symbol": "^N225",
+   "horizon": "1w",
+   "direction": "down",
+   "expectedPct": -1.3480174661600997,
+   "rangePct": [
+    -5.843336315478643,
+    3.147301383158444
+   ],
+   "actualPct": 6.45529191029961,
+   "hit": false,
+   "inRange": false
+  },
+  {
+   "date": "2026-11-07",
    "symbol": "1306.T",
    "horizon": "1d",
    "direction": "flat",
@@ -391,7 +475,7 @@
     -4.903982408429187,
     2.941246118042265
    ],
-   "actualPct": 7.51414854112864,
+   "actualPct": 6.922283446727162,
    "hit": false,
    "inRange": false
   },
@@ -411,6 +495,20 @@
   },
   {
    "date": "2026-11-07",
+   "symbol": "^GSPC",
+   "horizon": "1w",
+   "direction": "down",
+   "expectedPct": -0.7516418925228144,
+   "rangePct": [
+    -3.5802750047477536,
+    2.0769912197021245
+   ],
+   "actualPct": 2.5052673091114697,
+   "hit": false,
+   "inRange": false
+  },
+  {
+   "date": "2026-11-07",
    "symbol": "^IXIC",
    "horizon": "1d",
    "direction": "flat",
@@ -422,6 +520,20 @@
    "actualPct": 2.7409788023757375,
    "hit": false,
    "inRange": false
+  },
+  {
+   "date": "2026-11-07",
+   "symbol": "^IXIC",
+   "horizon": "1w",
+   "direction": "down",
+   "expectedPct": -1.2271919324345737,
+   "rangePct": [
+    -5.260409670606242,
+    2.806025805737095
+   ],
+   "actualPct": 2.2655112392741428,
+   "hit": false,
+   "inRange": true
   },
   {
    "date": "2026-11-07",
@@ -439,6 +551,20 @@
   },
   {
    "date": "2026-11-07",
+   "symbol": "^DJI",
+   "horizon": "1w",
+   "direction": "flat",
+   "expectedPct": -0.2451466442768196,
+   "rangePct": [
+    -2.940350005055458,
+    2.4500567165018188
+   ],
+   "actualPct": 2.070401070229466,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-07",
    "symbol": "IONQ",
    "horizon": "1d",
    "direction": "up",
@@ -449,6 +575,20 @@
    ],
    "actualPct": 23.420350190070938,
    "hit": true,
+   "inRange": false
+  },
+  {
+   "date": "2026-11-07",
+   "symbol": "IONQ",
+   "horizon": "1w",
+   "direction": "flat",
+   "expectedPct": -0.07181939524092155,
+   "rangePct": [
+    -12.837918785735646,
+    12.694279995253801
+   ],
+   "actualPct": 16.761257109438077,
+   "hit": false,
    "inRange": false
   },
   {
@@ -503,7 +643,7 @@
     -5.173633440464079,
     2.8101866299427334
    ],
-   "actualPct": 4.3228286553783635,
+   "actualPct": 4.322812590190961,
    "hit": false,
    "inRange": false
   },
@@ -587,7 +727,7 @@
     -4.324546947378462,
     3.0490106123119234
    ],
-   "actualPct": -0.06482339903005618,
+   "actualPct": -1.6579454361686952,
    "hit": true,
    "inRange": true
   },
