@@ -1,0 +1,707 @@
+{
+ "date": "2026-11-17",
+ "assets": [
+  {
+   "symbol": "^N225",
+   "asOf": "2026-11-17",
+   "last": 58806.48046875,
+   "vol20": 0.020837174786883194,
+   "prediction": {
+    "1d": {
+     "days": 1,
+     "score": 0.018730924298213547,
+     "direction": "flat",
+     "expectedPct": 0.03902995435217531,
+     "rangePct": [
+      -2.044687524336144,
+      2.1227474330404945
+     ],
+     "confidence": "low",
+     "contributions": [
+      {
+       "key": "rsi",
+       "weight": 0.175,
+       "score": 0.27486736168288206
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.175,
+       "score": 0.7526167089990919
+      },
+      {
+       "key": "maShort",
+       "weight": 0.075,
+       "score": -0.7117551770382442
+      },
+      {
+       "key": "macd",
+       "weight": 0.075,
+       "score": -0.22904228441578495
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.18103795692415942
+      }
+     ]
+    },
+    "1w": {
+     "days": 5,
+     "score": -0.17396329707520708,
+     "direction": "down",
+     "expectedPct": -0.8105530923330162,
+     "rangePct": [
+      -5.469887020584568,
+      3.848780835918535
+     ],
+     "confidence": "high",
+     "contributions": [
+      {
+       "key": "macd",
+       "weight": 0.175,
+       "score": -0.22904228441578495
+      },
+      {
+       "key": "maShort",
+       "weight": 0.175,
+       "score": -0.7117551770382442
+      },
+      {
+       "key": "rsi",
+       "weight": 0.075,
+       "score": 0.27486736168288206
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.075,
+       "score": 0.7526167089990919
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.17277009324380005
+      }
+     ]
+    },
+    "1m": {
+     "days": 21,
+     "score": -0.2588367206220092,
+     "direction": "down",
+     "expectedPct": -2.4715782849113435,
+     "rangePct": [
+      -12.020371357903098,
+      7.077214788080411
+     ],
+     "confidence": "high",
+     "contributions": [
+      {
+       "key": "maLong",
+       "weight": 0.21,
+       "score": 0.33431005779314094
+      },
+      {
+       "key": "slope",
+       "weight": 0.21,
+       "score": -0.4780492717668881
+      },
+      {
+       "key": "ma75",
+       "weight": 0.18,
+       "score": -0.9047255214563668
+      },
+      {
+       "key": "news",
+       "weight": 0.4,
+       "score": -0.16450222956344068
+      }
+     ]
+    }
+   }
+  },
+  {
+   "symbol": "1306.T",
+   "asOf": "2026-11-17",
+   "last": 404,
+   "vol20": 0.019480347446846374,
+   "prediction": {
+    "1d": {
+     "days": 1,
+     "score": 0.026475783064698444,
+     "direction": "flat",
+     "expectedPct": 0.05157574530276568,
+     "rangePct": [
+      -1.8964589993818717,
+      1.999610489987403
+     ],
+     "confidence": "low",
+     "contributions": [
+      {
+       "key": "rsi",
+       "weight": 0.175,
+       "score": 0.18445379444877916
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.175,
+       "score": 0.6268274427231896
+      },
+      {
+       "key": "maShort",
+       "weight": 0.075,
+       "score": -0.3111611537840173
+      },
+      {
+       "key": "macd",
+       "weight": 0.075,
+       "score": -0.021898245926867406
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.18103795692415942
+      }
+     ]
+    },
+    "1w": {
+     "days": 5,
+     "score": -0.0838243487834072,
+     "direction": "flat",
+     "expectedPct": -0.36513367554957527,
+     "rangePct": [
+      -4.721071787195872,
+      3.9908044360967216
+     ],
+     "confidence": "high",
+     "contributions": [
+      {
+       "key": "macd",
+       "weight": 0.175,
+       "score": -0.021898245926867406
+      },
+      {
+       "key": "maShort",
+       "weight": 0.175,
+       "score": -0.3111611537840173
+      },
+      {
+       "key": "rsi",
+       "weight": 0.075,
+       "score": 0.18445379444877916
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.075,
+       "score": 0.6268274427231896
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.17277009324380005
+      }
+     ]
+    },
+    "1m": {
+     "days": 21,
+     "score": -0.16208486849878623,
+     "direction": "down",
+     "expectedPct": -1.44693432367901,
+     "rangePct": [
+      -10.373950997600334,
+      7.480082350242315
+     ],
+     "confidence": "high",
+     "contributions": [
+      {
+       "key": "maLong",
+       "weight": 0.21,
+       "score": 0.36742724824290374
+      },
+      {
+       "key": "slope",
+       "weight": 0.21,
+       "score": -0.2662983521326657
+      },
+      {
+       "key": "ma75",
+       "weight": 0.18,
+       "score": -0.6528946936475551
+      },
+      {
+       "key": "news",
+       "weight": 0.4,
+       "score": -0.16450222956344068
+      }
+     ]
+    }
+   }
+  },
+  {
+   "symbol": "^GSPC",
+   "asOf": "2026-11-16",
+   "last": 7416.58984375,
+   "vol20": 0.014495265231521944,
+   "prediction": {
+    "1d": {
+     "days": 1,
+     "score": 0.03892587877170635,
+     "direction": "flat",
+     "expectedPct": 0.05642409371659532,
+     "rangePct": [
+      -1.393102429435599,
+      1.5059506168687897
+     ],
+     "confidence": "low",
+     "contributions": [
+      {
+       "key": "rsi",
+       "weight": 0.175,
+       "score": 0.19633036860032818
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.175,
+       "score": 0.7940100986793291
+      },
+      {
+       "key": "maShort",
+       "weight": 0.075,
+       "score": -0.3556204900926941
+      },
+      {
+       "key": "macd",
+       "weight": 0.075,
+       "score": -0.15093103729123072
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.19278467689687864
+      }
+     ]
+    },
+    "1w": {
+     "days": 5,
+     "score": -0.10564043030548809,
+     "direction": "flat",
+     "expectedPct": -0.3424059715220135,
+     "rangePct": [
+      -3.5836458124792427,
+      2.898833869435216
+     ],
+     "confidence": "high",
+     "contributions": [
+      {
+       "key": "macd",
+       "weight": 0.175,
+       "score": -0.15093103729123072
+      },
+      {
+       "key": "maShort",
+       "weight": 0.175,
+       "score": -0.3556204900926941
+      },
+      {
+       "key": "rsi",
+       "weight": 0.075,
+       "score": 0.19633036860032818
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.075,
+       "score": 0.7940100986793291
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.1825388961185511
+      }
+     ]
+    },
+    "1m": {
+     "days": 21,
+     "score": -0.10237545067569287,
+     "direction": "flat",
+     "expectedPct": -0.680035586970403,
+     "rangePct": [
+      -7.3226006011614935,
+      5.962529427220687
+     ],
+     "confidence": "high",
+     "contributions": [
+      {
+       "key": "maLong",
+       "weight": 0.21,
+       "score": 0.5362620245828148
+      },
+      {
+       "key": "slope",
+       "weight": 0.21,
+       "score": -0.13613711935240602
+      },
+      {
+       "key": "ma75",
+       "weight": 0.18,
+       "score": -0.652691303544385
+      },
+      {
+       "key": "news",
+       "weight": 0.4,
+       "score": -0.17229311534022354
+      }
+     ]
+    }
+   }
+  },
+  {
+   "symbol": "^IXIC",
+   "asOf": "2026-11-16",
+   "last": 24509.7578125,
+   "vol20": 0.01956265626830259,
+   "prediction": {
+    "1d": {
+     "days": 1,
+     "score": 0.029025079902225595,
+     "direction": "flat",
+     "expectedPct": 0.05678076612872571,
+     "rangePct": [
+      -1.8994848607015333,
+      2.0130463929589846
+     ],
+     "confidence": "low",
+     "contributions": [
+      {
+       "key": "rsi",
+       "weight": 0.175,
+       "score": 0.25884818268340426
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.175,
+       "score": 0.7910181638050398
+      },
+      {
+       "key": "maShort",
+       "weight": 0.075,
+       "score": -0.5959748477775432
+      },
+      {
+       "key": "macd",
+       "weight": 0.075,
+       "score": -0.1814810493532935
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.19278467689687864
+      }
+     ]
+    },
+    "1w": {
+     "days": 5,
+     "score": -0.14858425407053866,
+     "direction": "flat",
+     "expectedPct": -0.6499584803575948,
+     "rangePct": [
+      -5.02430140399629,
+      3.724384443281101
+     ],
+     "confidence": "high",
+     "contributions": [
+      {
+       "key": "macd",
+       "weight": 0.175,
+       "score": -0.1814810493532935
+      },
+      {
+       "key": "maShort",
+       "weight": 0.175,
+       "score": -0.5959748477775432
+      },
+      {
+       "key": "rsi",
+       "weight": 0.075,
+       "score": 0.25884818268340426
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.075,
+       "score": 0.7910181638050398
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.1825388961185511
+      }
+     ]
+    },
+    "1m": {
+     "days": 21,
+     "score": -0.1866503421316703,
+     "direction": "down",
+     "expectedPct": -1.6732709135507413,
+     "rangePct": [
+      -10.638006227940638,
+      7.291464400839155
+     ],
+     "confidence": "high",
+     "contributions": [
+      {
+       "key": "maLong",
+       "weight": 0.21,
+       "score": 0.44200624839916103
+      },
+      {
+       "key": "slope",
+       "weight": 0.21,
+       "score": -0.2932374809281832
+      },
+      {
+       "key": "ma75",
+       "weight": 0.18,
+       "score": -0.8276363175804792
+      },
+      {
+       "key": "news",
+       "weight": 0.4,
+       "score": -0.17229311534022354
+      }
+     ]
+    }
+   }
+  },
+  {
+   "symbol": "^DJI",
+   "asOf": "2026-11-16",
+   "last": 51608.19921875,
+   "vol20": 0.013197421805233733,
+   "prediction": {
+    "1d": {
+     "days": 1,
+     "score": 0.031184134887754386,
+     "direction": "flat",
+     "expectedPct": 0.04115501817449997,
+     "rangePct": [
+      -1.2785871623488734,
+      1.3608971986978733
+     ],
+     "confidence": "low",
+     "contributions": [
+      {
+       "key": "rsi",
+       "weight": 0.175,
+       "score": 0.09033296362003725
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.175,
+       "score": 0.672525796860599
+      },
+      {
+       "key": "maShort",
+       "weight": 0.075,
+       "score": 0.010442650437771329
+      },
+      {
+       "key": "macd",
+       "weight": 0.075,
+       "score": -0.08942678041000597
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.19278467689687864
+      }
+     ]
+    },
+    "1w": {
+     "days": 5,
+     "score": -0.047877263768368886,
+     "direction": "flat",
+     "expectedPct": -0.14128739626648,
+     "rangePct": [
+      -3.0923206246905415,
+      2.809745832157582
+     ],
+     "confidence": "mid",
+     "contributions": [
+      {
+       "key": "macd",
+       "weight": 0.175,
+       "score": -0.08942678041000597
+      },
+      {
+       "key": "maShort",
+       "weight": 0.175,
+       "score": 0.010442650437771329
+      },
+      {
+       "key": "rsi",
+       "weight": 0.075,
+       "score": 0.09033296362003725
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.075,
+       "score": 0.672525796860599
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.1825388961185511
+      }
+     ]
+    },
+    "1m": {
+     "days": 21,
+     "score": -0.10477453800560478,
+     "direction": "flat",
+     "expectedPct": -0.6336573830005761,
+     "rangePct": [
+      -6.68147582307501,
+      5.414161057073857
+     ],
+     "confidence": "high",
+     "contributions": [
+      {
+       "key": "maLong",
+       "weight": 0.21,
+       "score": 0.33491408161598185
+      },
+      {
+       "key": "slope",
+       "weight": 0.21,
+       "score": -0.16784655630523299
+      },
+      {
+       "key": "ma75",
+       "weight": 0.18,
+       "score": -0.39411928991540346
+      },
+      {
+       "key": "news",
+       "weight": 0.4,
+       "score": -0.17229311534022354
+      }
+     ]
+    }
+   }
+  },
+  {
+   "symbol": "IONQ",
+   "asOf": "2026-11-16",
+   "last": 26.450000762939453,
+   "vol20": 0.07402525549257506,
+   "prediction": {
+    "1d": {
+     "days": 1,
+     "score": 0.06746154335373053,
+     "direction": "flat",
+     "expectedPct": 0.4993857982683331,
+     "rangePct": [
+      -6.9031397509891725,
+      7.901911347525839
+     ],
+     "confidence": "low",
+     "contributions": [
+      {
+       "key": "rsi",
+       "weight": 0.175,
+       "score": 0.2588896026879063
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.175,
+       "score": 0.9693638427511769
+      },
+      {
+       "key": "maShort",
+       "weight": 0.075,
+       "score": -0.065060006423019
+      },
+      {
+       "key": "macd",
+       "weight": 0.075,
+       "score": 0.03959637223915011
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.29114607406863774
+      }
+     ]
+    },
+    "1w": {
+     "days": 5,
+     "score": 0.013121858698241562,
+     "direction": "flat",
+     "expectedPct": 0.21720022656933993,
+     "rangePct": [
+      -16.335350106749413,
+      16.76975055988809
+     ],
+     "confidence": "low",
+     "contributions": [
+      {
+       "key": "macd",
+       "weight": 0.175,
+       "score": 0.03959637223915011
+      },
+      {
+       "key": "maShort",
+       "weight": 0.175,
+       "score": -0.065060006423019
+      },
+      {
+       "key": "rsi",
+       "weight": 0.075,
+       "score": 0.2588896026879063
+      },
+      {
+       "key": "bollinger",
+       "weight": 0.075,
+       "score": 0.9693638427511769
+      },
+      {
+       "key": "news",
+       "weight": 0.5,
+       "score": -0.14908202745502525
+      }
+     ]
+    },
+    "1m": {
+     "days": 21,
+     "score": -0.346269609351969,
+     "direction": "down",
+     "expectedPct": -11.746377106786756,
+     "rangePct": [
+      -45.66901077010384,
+      22.176256556530323
+     ],
+     "confidence": "high",
+     "contributions": [
+      {
+       "key": "maLong",
+       "weight": 0.21,
+       "score": -0.3215247226986712
+      },
+      {
+       "key": "slope",
+       "weight": 0.21,
+       "score": -0.5610574172503099
+      },
+      {
+       "key": "ma75",
+       "weight": 0.18,
+       "score": -0.8784453757006546
+      },
+      {
+       "key": "news",
+       "weight": 0.4,
+       "score": -0.00701798084141278
+      }
+     ]
+    }
+   }
+  }
+ ]
+}
