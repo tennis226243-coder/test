@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-27T03:59:38.931Z",
+ "updatedAt": "2026-11-28T03:47:43.000Z",
  "byHorizon": {
   "1d": {
-   "n": 98,
+   "n": 102,
    "hits": 21,
-   "hitRate": 0.21428571428571427,
-   "inRangeRate": 0.6020408163265306
+   "hitRate": 0.20588235294117646,
+   "inRangeRate": 0.6176470588235294
   },
   "1w": {
-   "n": 75,
+   "n": 78,
    "hits": 31,
-   "hitRate": 0.41333333333333333,
-   "inRangeRate": 0.6533333333333333
+   "hitRate": 0.3974358974358974,
+   "inRangeRate": 0.6538461538461539
   },
   "1m": {
    "n": 0,
@@ -21,6 +21,86 @@
   }
  },
  "bySymbol": {
+  "^GSPC": {
+   "1d": {
+    "n": 19,
+    "hits": 4,
+    "hitRate": 0.21052631578947367,
+    "inRangeRate": 0.631578947368421
+   },
+   "1w": {
+    "n": 15,
+    "hits": 6,
+    "hitRate": 0.4,
+    "inRangeRate": 0.6
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
+  "^IXIC": {
+   "1d": {
+    "n": 19,
+    "hits": 3,
+    "hitRate": 0.15789473684210525,
+    "inRangeRate": 0.631578947368421
+   },
+   "1w": {
+    "n": 15,
+    "hits": 8,
+    "hitRate": 0.5333333333333333,
+    "inRangeRate": 0.8
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
+  "^DJI": {
+   "1d": {
+    "n": 19,
+    "hits": 3,
+    "hitRate": 0.15789473684210525,
+    "inRangeRate": 0.5789473684210527
+   },
+   "1w": {
+    "n": 15,
+    "hits": 1,
+    "hitRate": 0.06666666666666667,
+    "inRangeRate": 0.6666666666666666
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
+  "IONQ": {
+   "1d": {
+    "n": 15,
+    "hits": 3,
+    "hitRate": 0.2,
+    "inRangeRate": 0.6
+   },
+   "1w": {
+    "n": 11,
+    "hits": 1,
+    "hitRate": 0.09090909090909091,
+    "inRangeRate": 0.2727272727272727
+   },
+   "1m": {
+    "n": 0,
+    "hits": 0,
+    "hitRate": null,
+    "inRangeRate": null
+   }
+  },
   "^N225": {
    "1d": {
     "n": 15,
@@ -60,89 +140,65 @@
     "hitRate": null,
     "inRangeRate": null
    }
-  },
-  "^GSPC": {
-   "1d": {
-    "n": 18,
-    "hits": 4,
-    "hitRate": 0.2222222222222222,
-    "inRangeRate": 0.6111111111111112
-   },
-   "1w": {
-    "n": 14,
-    "hits": 6,
-    "hitRate": 0.42857142857142855,
-    "inRangeRate": 0.5714285714285714
-   },
-   "1m": {
-    "n": 0,
-    "hits": 0,
-    "hitRate": null,
-    "inRangeRate": null
-   }
-  },
-  "^IXIC": {
-   "1d": {
-    "n": 18,
-    "hits": 3,
-    "hitRate": 0.16666666666666666,
-    "inRangeRate": 0.6111111111111112
-   },
-   "1w": {
-    "n": 14,
-    "hits": 8,
-    "hitRate": 0.5714285714285714,
-    "inRangeRate": 0.7857142857142857
-   },
-   "1m": {
-    "n": 0,
-    "hits": 0,
-    "hitRate": null,
-    "inRangeRate": null
-   }
-  },
-  "^DJI": {
-   "1d": {
-    "n": 18,
-    "hits": 3,
-    "hitRate": 0.16666666666666666,
-    "inRangeRate": 0.5555555555555556
-   },
-   "1w": {
-    "n": 14,
-    "hits": 1,
-    "hitRate": 0.07142857142857142,
-    "inRangeRate": 0.7142857142857143
-   },
-   "1m": {
-    "n": 0,
-    "hits": 0,
-    "hitRate": null,
-    "inRangeRate": null
-   }
-  },
-  "IONQ": {
-   "1d": {
-    "n": 14,
-    "hits": 3,
-    "hitRate": 0.21428571428571427,
-    "inRangeRate": 0.5714285714285714
-   },
-   "1w": {
-    "n": 11,
-    "hits": 1,
-    "hitRate": 0.09090909090909091,
-    "inRangeRate": 0.2727272727272727
-   },
-   "1m": {
-    "n": 0,
-    "hits": 0,
-    "hitRate": null,
-    "inRangeRate": null
-   }
   }
  },
  "recent": [
+  {
+   "date": "2026-11-27",
+   "symbol": "^GSPC",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": -0.09994573858917008,
+   "rangePct": [
+    -2.0975610575549046,
+    1.8976695803765646
+   ],
+   "actualPct": 1.5970202713969872,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-27",
+   "symbol": "^IXIC",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": -0.06437706142133859,
+   "rangePct": [
+    -2.7406960362118697,
+    2.6119419133691926
+   ],
+   "actualPct": 2.305197198062592,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-27",
+   "symbol": "^DJI",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": -0.170174813430661,
+   "rangePct": [
+    -1.8132642104692942,
+    1.4729145836079724
+   ],
+   "actualPct": 1.1796679882632555,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-27",
+   "symbol": "IONQ",
+   "horizon": "1d",
+   "direction": "flat",
+   "expectedPct": 0.44817635445539433,
+   "rangePct": [
+    -7.737698483104832,
+    8.63405119201562
+   ],
+   "actualPct": 6.074759312706313,
+   "hit": false,
+   "inRange": true
+  },
   {
    "date": "2026-11-26",
    "symbol": "^N225",
@@ -153,7 +209,7 @@
     -2.60112549934325,
     2.4726954359134785
    ],
-   "actualPct": 1.0744486370448891,
+   "actualPct": 1.4461535450197127,
    "hit": false,
    "inRange": true
   },
@@ -167,7 +223,7 @@
     -2.2448387186910925,
     2.1011436437744364
    ],
-   "actualPct": 1.2090649352566096,
+   "actualPct": 1.1083108051597845,
    "hit": false,
    "inRange": true
   },
@@ -439,6 +495,20 @@
   },
   {
    "date": "2026-11-20",
+   "symbol": "^GSPC",
+   "horizon": "1w",
+   "direction": "down",
+   "expectedPct": -0.7733827496917024,
+   "rangePct": [
+    -4.090025131695852,
+    2.5432596323124477
+   ],
+   "actualPct": 1.6954157905838985,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-20",
    "symbol": "^IXIC",
    "horizon": "1d",
    "direction": "flat",
@@ -453,6 +523,20 @@
   },
   {
    "date": "2026-11-20",
+   "symbol": "^IXIC",
+   "horizon": "1w",
+   "direction": "down",
+   "expectedPct": -0.9635839877769017,
+   "rangePct": [
+    -5.2495215331370595,
+    3.3223535575832557
+   ],
+   "actualPct": 1.0481958752346365,
+   "hit": false,
+   "inRange": true
+  },
+  {
+   "date": "2026-11-20",
    "symbol": "^DJI",
    "horizon": "1d",
    "direction": "flat",
@@ -462,6 +546,20 @@
     1.4410005101462953
    ],
    "actualPct": -1.9343938230770075,
+   "hit": false,
+   "inRange": false
+  },
+  {
+   "date": "2026-11-20",
+   "symbol": "^DJI",
+   "horizon": "1w",
+   "direction": "down",
+   "expectedPct": -0.7827645563623636,
+   "rangePct": [
+    -3.9361666951929926,
+    2.3706375824682655
+   ],
+   "actualPct": 3.4174813330132725,
    "hit": false,
    "inRange": false
   },
@@ -517,7 +615,7 @@
     -5.419169487992047,
     3.808567920535017
    ],
-   "actualPct": -1.0904181838609306,
+   "actualPct": -0.7266746512217259,
    "hit": true,
    "inRange": true
   },
@@ -545,7 +643,7 @@
     -4.778767135653338,
     3.77930026880052
    ],
-   "actualPct": 0.17451550206970534,
+   "actualPct": 0.07479127110543438,
    "hit": true,
    "inRange": true
   },
@@ -1442,104 +1540,6 @@
     3.736534996408535
    ],
    "actualPct": -2.687652809567953,
-   "hit": true,
-   "inRange": true
-  },
-  {
-   "date": "2026-11-11",
-   "symbol": "^GSPC",
-   "horizon": "1d",
-   "direction": "flat",
-   "expectedPct": -0.037816668222358636,
-   "rangePct": [
-    -1.4309798110568805,
-    1.3553464746121633
-   ],
-   "actualPct": 1.3090097199449646,
-   "hit": false,
-   "inRange": true
-  },
-  {
-   "date": "2026-11-11",
-   "symbol": "^GSPC",
-   "horizon": "1w",
-   "direction": "down",
-   "expectedPct": -0.6218235968256323,
-   "rangePct": [
-    -3.7370310879508724,
-    2.4933838942996083
-   ],
-   "actualPct": -2.398644667729022,
-   "hit": true,
-   "inRange": true
-  },
-  {
-   "date": "2026-11-11",
-   "symbol": "^IXIC",
-   "horizon": "1d",
-   "direction": "flat",
-   "expectedPct": -0.03169828778931518,
-   "rangePct": [
-    -1.9767125002522512,
-    1.9133159246736207
-   ],
-   "actualPct": 1.5970495868386836,
-   "hit": false,
-   "inRange": true
-  },
-  {
-   "date": "2026-11-11",
-   "symbol": "^IXIC",
-   "horizon": "1w",
-   "direction": "down",
-   "expectedPct": -0.9889106860300629,
-   "rangePct": [
-    -5.338094682300406,
-    3.360273310240281
-   ],
-   "actualPct": -2.9422238027796754,
-   "hit": true,
-   "inRange": true
-  },
-  {
-   "date": "2026-11-11",
-   "symbol": "^DJI",
-   "horizon": "1d",
-   "direction": "flat",
-   "expectedPct": -0.08155561514957652,
-   "rangePct": [
-    -1.3779842694111086,
-    1.2148730391119558
-   ],
-   "actualPct": 0.487437182923145,
-   "hit": false,
-   "inRange": true
-  },
-  {
-   "date": "2026-11-11",
-   "symbol": "^DJI",
-   "horizon": "1w",
-   "direction": "flat",
-   "expectedPct": -0.1956273359610844,
-   "rangePct": [
-    -3.094529934868443,
-    2.7032752629462746
-   ],
-   "actualPct": -2.819099083683607,
-   "hit": false,
-   "inRange": true
-  },
-  {
-   "date": "2026-11-11",
-   "symbol": "IONQ",
-   "horizon": "1d",
-   "direction": "flat",
-   "expectedPct": -0.08325789032359969,
-   "rangePct": [
-    -7.741665441810979,
-    7.57514966116378
-   ],
-   "actualPct": -0.9903748517541056,
    "hit": true,
    "inRange": true
   }
